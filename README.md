@@ -55,7 +55,6 @@ I have a passion for coding, building web applications, and improving my skills 
 <ul>
   <li><span style="color: #f1e05a;">JavaScript</span>: 50%</li>
   <li><span style="color: #563d7c;">CSS</span>: 25%</li>
-  <li><span style="color: #2b7489;">TypeScript</span>: 16.44%</li>
   <li><span style="color: #a91e50;">EJS</span>: 15%</li>
   <li><span style="color: #f34b7d;">C++</span>: 10%</li>
   <li><span style="color: #e34c26;">HTML</span>: 10%</li>
