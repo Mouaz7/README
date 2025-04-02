@@ -56,5 +56,4 @@ I have a passion for coding, building web applications, and improving my skills 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&locale=en" alt="mouaz7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz7&" alt="mouaz7" /></p>
 
