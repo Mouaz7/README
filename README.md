@@ -11,6 +11,7 @@ I have a passion for coding, building web applications, and improving my skills 
 <ul>
   <li>🔭 I’m currently working on personal and team projects focused on web development</li>
   <li>🌱 I’m currently learning TypeScript, Node.js, and advanced React concepts</li>
+  <li>🧠 Actively working with TypeScript in fullstack projects</li>
   <li>🤝 I’m looking to collaborate on open-source projects</li>
   <li>💬 Ask me about web development, JavaScript, and API integration</li>
 </ul>
@@ -32,6 +33,7 @@ I have a passion for coding, building web applications, and improving my skills 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -44,9 +46,10 @@ I have a passion for coding, building web applications, and improving my skills 
 
 <h3 align="left">📊 Most Used Languages:</h3>
 <ul>
-  <li><span style="color: #f1e05a;">JavaScript</span>: 50%</li>
-  <li><span style="color: #563d7c;">CSS</span>: 25%</li>
-  <li><span style="color: #a91e50;">EJS</span>: 15%</li>
+  <li><span style="color: #2b7489;">TypeScript</span>: 30%</li>
+  <li><span style="color: #f1e05a;">JavaScript</span>: 25%</li>
+  <li><span style="color: #563d7c;">CSS</span>: 15%</li>
+  <li><span style="color: #a91e50;">EJS</span>: 10%</li>
   <li><span style="color: #f34b7d;">C++</span>: 10%</li>
   <li><span style="color: #e34c26;">HTML</span>: 10%</li>
 </ul>
@@ -55,5 +58,3 @@ I have a passion for coding, building web applications, and improving my skills 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouaz7&show_icons=true&locale=en&layout=compact" alt="mouaz7" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&locale=en" alt="mouaz7" /></p>
-
-
