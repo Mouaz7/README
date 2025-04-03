@@ -46,7 +46,7 @@ I have a passion for coding, building web applications, and improving my skills 
 
 <h3 align="left">📊 Most Used Languages:</h3>
 <ul>
-  <li><span style="color: #f1e05a;">JavaScript</span>: 25%</li>
+  <li><span style="color: #f1e05a;">JavaScript</span>: 50%</li>
   <li><span style="color: #563d7c;">CSS</span>: 15%</li>
   <li><span style="color: #a91e50;">EJS</span>: 10%</li>
   <li><span style="color: #f34b7d;">C++</span>: 10%</li>
