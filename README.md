@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz7" />
 </p>
 
+<!-- Hero demo GIF -->
+<p align="center">
+  <a href="https://github.com/Mouaz7/moveout">
+    <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"
+         alt="MoveOut demo – QR labels & PIN sharing"
+         width="880" />
+  </a>
+</p>
+
 <h2 align="left">🌍 About Me</h2>
 <p>
   I build practical software across the stack — from Node.js/Express and SQL databases to C++ and ARM assembly.
@@ -48,7 +57,7 @@
   </li>
 </ul>
 
-<!-- Optional: visual repo cards (uses github-readme-stats). Remove if you prefer pure text. -->
+<!-- Optional: visual repo cards. Remove this block if you prefer text-only. -->
 <p align="center">
   <a href="https://github.com/Mouaz7/Eshop-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=Eshop-management-system" alt="Eshop-management-system" />
@@ -103,7 +112,7 @@
   <a href="https://instagram.com/mouaz_naji8" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/mouaz77." target="_blank">
+  <a href="https://discord.gg/mouaz77" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
