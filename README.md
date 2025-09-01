@@ -5,10 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz7" /> 
 </p> 
 
-<!-- Hero GIF (responsive). Click opens original source page on DeviantArt -->
+<!-- Hero GIF (local in repo). Click opens original source on DeviantArt -->
 <p align="center"> 
   <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer"> 
-    <img src="assets/chill-mario.gif" alt="Chill Mario by PixelJeff" style="max-width:100%; height:auto; border-radius:8px;" />
+    <img src="assets/chill-mario.gif" 
+         alt="Chill Mario by PixelJeff" 
+         style="max-width:100%; height:auto; border-radius:8px;" />
   </a> 
 </p> 
 
