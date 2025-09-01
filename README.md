@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz7" /> 
 </p> 
 
-<!-- Hero demo GIF --> 
+<!-- Hero GIF (responsive). Click opens original source page on DeviantArt -->
 <p align="center"> 
-  <a href="https://github.com/Mouaz7/moveout"> 
-    <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="MoveOut demo – QR labels & PIN sharing" width="880" /> 
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer"> 
+    <img src="assets/chill-mario.gif" alt="Chill Mario by PixelJeff" style="max-width:100%; height:auto; border-radius:8px;" />
   </a> 
 </p> 
 
@@ -26,7 +26,6 @@
   <li>🤝 Open to collaborating on open-source</li> 
   <li>💬 Ask me about web development, JavaScript, databases, and API integration</li> 
 </ul> 
-
 
 <h2 align="left">🧰 Languages & Tools</h2> 
 <p align="left"> 
