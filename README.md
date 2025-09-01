@@ -27,61 +27,6 @@
   <li>💬 Ask me about web development, JavaScript, databases, and API integration</li> 
 </ul> 
 
-<h2 align="left">🚀 Featured Projects</h2> 
-<ul> 
-  <li> 
-    <a href="https://github.com/Mouaz7/Eshop-management-system"><b>Eshop-management-system</b></a> — Full-stack e-commerce (Node.js, Express, EJS, MariaDB) with stored procedures & triggers. 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/moveout"><b>MoveOut</b></a> — Box labels with text/images/audio, QR codes, PIN-protected sharing, and insurance labels (Node.js, EJS, MySQL/MariaDB). 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/BurgerProject"><b>BurgerProject</b></a> — Full-stack ordering app with kitchen view and DB integration (Node.js, MySQL, EJS). 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/Cpp-TransportSystem"><b>Cpp-TransportSystem</b></a> — C++ OOP transport schedules and bookings. 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/Python-Table-Implementations"><b>Python-Table-Implementations</b></a> — ADT Table implementations (Array/List/MTF) with performance tests. 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/ARM-Interrupt-UART-Display"><b>ARM-Interrupt-UART-Display</b></a> — ARM Cortex-A9: button interrupts, UART commands, 7-segment display. 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/Practical-Communication"><b>Practical-Communication</b></a> — TCP/UDP networking project with simple browser. 
-  </li> 
-  <li> 
-    <a href="https://github.com/Mouaz7/Python-directed-graph-bfs"><b>Python-directed-graph-bfs</b></a> — Directed graph connectivity (BFS). 
-  </li> 
-</ul> 
-
-<!-- Optional: visual repo cards. Remove this block if you prefer text-only. --> 
-<p align="center"> 
-  <a href="https://github.com/Mouaz7/Eshop-management-system"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=Eshop-management-system" alt="Eshop-management-system" /> 
-  </a> 
-  <a href="https://github.com/Mouaz7/moveout"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=moveout" alt="moveout" /> 
-  </a> 
-</p> 
-
-<p align="center"> 
-  <a href="https://github.com/Mouaz7/BurgerProject"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=BurgerProject" alt="BurgerProject" /> 
-  </a> 
-  <a href="https://github.com/Mouaz7/Cpp-TransportSystem"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=Cpp-TransportSystem" alt="Cpp-TransportSystem" /> 
-  </a> 
-</p> 
-
-<p align="center"> 
-  <a href="https://github.com/Mouaz7/Python-Table-Implementations"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=Python-Table-Implementations" alt="Python-Table-Implementations" /> 
-  </a> 
-  <a href="https://github.com/Mouaz7/ARM-Interrupt-UART-Display"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mouaz7&repo=ARM-Interrupt-UART-Display" alt="ARM-Interrupt-UART-Display" /> 
-  </a> 
-</p> 
 
 <h2 align="left">🧰 Languages & Tools</h2> 
 <p align="left"> 
