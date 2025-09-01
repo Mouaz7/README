@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mouaz Naji</h1> 
-<h3 align="center">A passionate Software Engineer from Syria</h3> 
+<h1 align="center">Hi 👋, I'm Mouaz Naji</h1>
+<h3 align="center">A passionate Software Engineer from Syria</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz7" /> 
-</p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz7" />
+</p>
 
-<!-- Hero GIF (local in repo). Click opens original source on DeviantArt -->
-<p align="center"> 
-  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer"> 
-    <img src="assets/chill-mario.gif" 
+<!-- Hero demo GIF -->
+<p align="center">
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" 
          alt="Chill Mario by PixelJeff" 
-         style="max-width:100%; height:auto; border-radius:8px;" />
-  </a> 
-</p> 
+         width="880" />
+  </a>
+</p>
 
 <h2 align="left">🌍 About Me</h2> 
 <p> 
