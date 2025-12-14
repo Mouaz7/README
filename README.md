@@ -6,7 +6,7 @@
 
   <h3>
     <img src="https://skillicons.dev/icons?i=code" height="20" />
-    Software Engineering Student · Backend & Systems Focus
+    Software Engineer · Backend & Systems Focus
   </h3>
 
   <img
@@ -18,80 +18,74 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/mouaz7?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/mouaz7?label=Stars&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=0e75b6&style=flat" alt="mouaz7" />
 </p>
 
----
-
-## <img src="https://skillicons.dev/icons?i=user" height="22" /> About Me
-I am a software engineering student with a strong interest in **backend systems**, **scalable architectures**, and **low-level fundamentals**.
-
-- <img src="https://skillicons.dev/icons?i=check" height="18" /> Build clean, maintainable systems focused on performance and correctness  
-- <img src="https://skillicons.dev/icons?i=server" height="18" /> Interested in backend development, operating systems, and system design  
-- <img src="https://skillicons.dev/icons?i=git" height="18" /> Value clear abstractions, testable code, and long-term maintainability  
-- <img src="https://skillicons.dev/icons?i=github" height="18" /> Open to collaboration on engineering-focused and open-source projects  
-
----
-
-## <img src="https://skillicons.dev/icons?i=target" height="22" /> Current Focus
-- <img src="https://skillicons.dev/icons?i=ts,nodejs" height="18" /> TypeScript & Node.js — APIs, Firebase, backend integrations  
-- <img src="https://skillicons.dev/icons?i=backend" height="18" /> Backend-heavy full-stack development  
-- <img src="https://skillicons.dev/icons?i=tailwind" height="18" /> TailwindCSS for fast, consistent, scalable UI  
-- <img src="https://skillicons.dev/icons?i=docker" height="18" /> DevOps fundamentals — CI pipelines and deployment flows  
-
----
-
-## <img src="https://skillicons.dev/icons?i=stack" height="22" /> Tech Stack
+<!-- Hero demo GIF -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vue,tailwind,html,css,python,cpp,cs,mysql,linux,git&perline=8" />
-</p>
-
-<p align="center">
-  <sub>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="14" />
-    Styling with <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a> · Utility-first · Clean UI
-  </sub>
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"
+         alt="Chill Mario by PixelJeff"
+         style="max-width:100%; height:auto; border-radius:8px;" />
+  </a>
 </p>
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=brain" height="22" /> Engineering Philosophy
-- <img src="https://skillicons.dev/icons?i=lightbulb" height="18" /> Prefer clarity over cleverness  
-- <img src="https://skillicons.dev/icons?i=diagram" height="18" /> Design systems that are easy to reason about  
-- <img src="https://skillicons.dev/icons?i=code" height="18" /> Write code for humans first  
-- <img src="https://skillicons.dev/icons?i=speed" height="18" /> Optimize only with measurable reasons  
-- <img src="https://skillicons.dev/icons?i=shield" height="18" /> Value correctness, simplicity, maintainability  
-
----
-
-## <img src="https://skillicons.dev/icons?i=book" height="22" /> Selected Interests
-- <img src="https://skillicons.dev/icons?i=server" height="18" /> Backend systems and API design  
-- <img src="https://skillicons.dev/icons?i=linux" height="18" /> Operating systems and concurrency  
-- <img src="https://skillicons.dev/icons?i=architecture" height="18" /> Software architecture and system design  
-- <img src="https://skillicons.dev/icons?i=python" height="18" /> Data structures, algorithms, performance  
-- <img src="https://skillicons.dev/icons?i=security" height="18" /> Security fundamentals and reliability  
-
----
-
-## <img src="https://skillicons.dev/icons?i=github" height="22" /> GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz7&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mouaz7&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mouaz7&no-frame=true&row=1&column=7" />
+<h2 align="left">🌍 About Me</h2>
+<p>
+✨ I am currently working on various software projects while constantly learning new technologies.<br>
+💡 Passionate about coding, building full-stack web apps, and improving my skills in both frontend and backend.<br>
+📚 Always curious about software engineering principles, clean architectures, and scalable systems.<br>
+🚀 My focus: simplicity, performance, and user-centered design.
 </p>
 
 ---
 
-## <img src="https://skillicons.dev/icons?i=connect" height="22" /> Connect
-- <img src="https://skillicons.dev/icons?i=linkedin" height="16" /> LinkedIn: https://www.linkedin.com/in/mouaz-naji-9307531b6/
-- <img src="https://skillicons.dev/icons?i=instagram" height="16" /> Instagram: https://instagram.com/mouaz_naji8
-- <img src="https://skillicons.dev/icons?i=discord" height="16" /> Discord: https://discord.gg/mouaz77
+<h2 align="left">⚡ Quick Facts</h2>
+<ul>
+  <li>🎯 Currently exploring <b>TypeScript, Node.js, and advanced React patterns</b></li>
+  <li>🌱 Improving my knowledge in <b>Cloud, DevOps, and scalable systems</b></li>
+  <li>🤝 Open for collaborations on <b>open-source projects</b></li>
+  <li>📬 Reach me anytime on <b>LinkedIn</b> or <b>Discord</b></li>
+</ul>
+
+---
+
+<h2 align="left">🧰 Languages & Tools</h2>
+<p align="left">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+<h2 align="left">🤝 Connect with me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mouaz_naji8" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/mouaz77" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">📈 GitHub Stats</h2>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&locale=en" />
+</p>
