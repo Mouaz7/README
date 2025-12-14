@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Mouaz%20Naji&fontSize=80&fontColor=0d1117&fontAlign=50&animation=fadeIn" alt="Header" />
 
-  <h3 align="center">🚀 Software Engineering Student @ BTH | Backend & Systems Focus</h3>
+  <h3 align="center">🚀 Software Engineering Student | Backend & Systems Focus</h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=3382ed&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;C%2B%2B+%7C+Python+%7C+Algorithms;OS+%7C+Network+Security+%7C+IPC;Full-stack+Developer+(TS%2FNode)" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 <td width="50%" valign="top">
 
 ### 👨‍💻 About Me
-I'm a **Software Engineer** in the making at **Blekinge Institute of Technology (BTH)**. I move beyond just writing code—I focus on **system architecture, performance, and security**.
+I'm a **Software Engineer** with a passion for building robust systems. I look beyond simple code—focusing on **architecture, efficiency, and security**.
 
 - 🔭 **Current Focus:** OS Architecture, System Verification & Generative AI.
 - 🛠️ **Core Stack:** C++, Python, Node.js & Linux.
@@ -77,6 +77,6 @@ I'm a **Software Engineer** in the making at **Blekinge Institute of Technology 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" />
   
   <p style="margin-top: 20px;">
-    <code><span style="color: #7aa2f7;">mouaz@bth</span>:<span style="color: #9ece6a;">~</span>$ echo "Happy Coding!"</code>
+    <code><span style="color: #7aa2f7;">mouaz@dev</span>:<span style="color: #9ece6a;">~</span>$ echo "Happy Coding!"</code>
   </p>
 </div>
