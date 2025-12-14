@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=E6C87A&height=240&section=header&text=Mouaz%20Naji&fontSize=78&fontColor=0d1117&fontAlign=50&animation=fadeIn"
@@ -9,12 +8,12 @@
     Software Engineer · Backend & Systems Focus
   </h3>
 
-  <img
+<img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E6C87A&center=true&vCenter=true&width=920&lines=Scalable+Systems+%C2%B7+System+Design+%C2%B7+Performance;Security+%C2%B7+Networking+%C2%B7+Reliability;Mobile+Applications+%C2%B7+Android+%C2%B7+Cross-platform;Problem+Solving+%C2%B7+Algorithms+%C2%B7+Clean+Code;TypeScript+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+Python+%C2%B7+C%2B%2B"
     alt="Typing SVG"
   />
 
-  <br/><br/>
+<br/><br/>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=E6C87A&style=flat" alt="Profile views" />
@@ -25,7 +24,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2&section=footer" width="90%" />
 </div>
 
-<!-- ================= HERO ================= -->
 <p align="center">
   <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer">
     <img
@@ -38,29 +36,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<!-- ================= ABOUT ================= -->
-<h2>About Me</h2>
-<p>
-I build backend-focused systems with an emphasis on clean architecture, reliability, and performance.
-I enjoy working close to the system: networking, security, debugging, and scalable services.
+<h2 align="left">🌍🌟 About Me ✨🙌</h2>
+<p align="left">
+  👋 Hi there! I'm <b>Mouaz Naji</b>, a passionate <b>Software Engineer</b> specialized in building robust <b>Backend Systems</b> ⚙️. 
+  I thrive on <b>Clean Architecture</b>, <b>High Performance</b>, and <b>Reliability</b>. 
+  <br />
+  My passion lies in the depths of computing: <b>Networking</b> 🌐, <b>Security</b> 🔒, and <b>Scalable Services</b> 📈.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
-
-<!-- ================= QUICK FACTS ================= -->
-<h2>Quick Facts</h2>
+<h3>🚀 Quick Facts</h3>
 <ul>
-  <li>Focused on backend, system design, and performance engineering</li>
-  <li>Interested in security, networking, and building reliable services</li>
-  <li>Open to collaborations and open-source contributions</li>
+  <li>🎯 Currently exploring <b>TypeScript, Node.js, and advanced React patterns</b></li>
+  <li>🌱 Improving my knowledge in <b>Cloud, DevOps, and scalable systems</b></li>
+  <li>🤝 Open for collaborations on <b>open-source projects</b></li>
+  <li>📬 Reach me anytime on <b>LinkedIn</b> or <b>Discord</b></li>
 </ul>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<!-- ================= LANGUAGES & TOOLS (CLICKABLE) ================= -->
-<h2>Languages & Tools</h2>
+<h2>🛠 Languages & Tools 💻</h2>
 
-<h3>Frontend</h3>
+<h3>🎨 Frontend</h3>
 <p>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" height="46" alt="HTML" style="margin:6px;" />
@@ -88,7 +84,7 @@ I enjoy working close to the system: networking, security, debugging, and scalab
   </a>
 </p>
 
-<h3>Backend</h3>
+<h3>⚙️ Backend</h3>
 <p>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="46" alt="Node.js" style="margin:6px;" />
@@ -107,7 +103,7 @@ I enjoy working close to the system: networking, security, debugging, and scalab
   </a>
 </p>
 
-<h3>Mobile</h3>
+<h3>📱 Mobile</h3>
 <p>
   <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="46" alt="Android Studio" style="margin:6px;" />
@@ -117,18 +113,30 @@ I enjoy working close to the system: networking, security, debugging, and scalab
   </a>
 </p>
 
-<h3>Database</h3>
+<h3>🗄️ Database</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="46" alt="MySQL" style="margin:6px;" />
   </a>
-  <a href="https://www.microsoft.com/sql-server/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="46" alt="SQL Server" style="margin:6px;" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="46" alt="PostgreSQL" style="margin:6px;" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="46" alt="MariaDB" style="margin:6px;" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="46" alt="SQLite" style="margin:6px;" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="46" alt="Firebase" style="margin:6px;" />
   </a>
 </p>
 
-<h3>DevOps & Tools</h3>
+<h3>♾️ DevOps & Tools</h3>
 <p>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="46" alt="Bash" style="margin:6px;" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" height="46" alt="Git" style="margin:6px;" />
   </a>
@@ -140,32 +148,26 @@ I enjoy working close to the system: networking, security, debugging, and scalab
   </a>
 </p>
 
-<p align="center">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img
-      alt="TailwindCSS"
-      src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=E6C87A"
-    />
-  </a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<!-- ================= GITHUB STATS (CLEAN THEME) ================= -->
 <h2>GitHub Stats</h2>
 
-<p align="center">
-  <img
-    height="170"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=E6C87A&title_color=E6C87A&icon_color=E6C87A&text_color=E5E7EB&bg_color=0d1117&border_radius=12"
-  />
-  <img
-    height="170"
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz7&layout=compact&langs_count=8&hide_border=false&border_color=E6C87A&title_color=E6C87A&text_color=E5E7EB&bg_color=0d1117&border_radius=12"
-  />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=E6C87A&title_color=E6C87A&icon_color=E6C87A&text_color=E5E7EB&bg_color=0d1117&border_radius=12"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz7&layout=compact&langs_count=8&hide_border=false&border_color=E6C87A&title_color=E6C87A&text_color=E5E7EB&bg_color=0d1117&border_radius=12&exclude_repo=moap23-student.bth.se"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
@@ -176,8 +178,10 @@ I enjoy working close to the system: networking, security, debugging, and scalab
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<!-- ================= CONNECT ================= -->
-<h2>Connect with me</h2>
+<h2>📫 Connect with me</h2>
+<p align="center">
+  Interested in working together or just want to say hi? Drop me a message!
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/" target="_blank" rel="noopener noreferrer">
