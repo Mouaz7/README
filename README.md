@@ -28,7 +28,7 @@
 
 <!-- ================= HERO ================= -->
 <p align="center">
-  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank">
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer">
     <img
       src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"
       alt="Chill Mario"
@@ -90,47 +90,73 @@
   <img src="https://skillicons.dev/icons?i=git,linux,docker" />
 </p>
 
-<p><b>TailwindCSS</b> → <a href="https://tailwindcss.com/">tailwindcss.com</a></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
-
-<!-- ================= SNAPSHOT ================= -->
-<h2>✨ Engineering Snapshot</h2>
+<!-- TailwindCSS: make it look intentional (not random text) -->
 <p>
-  <img src="https://img.shields.io/badge/System%20Design-Strong-E6C87A?style=flat" />
-  <img src="https://img.shields.io/badge/Security-Focused-E6C87A?style=flat" />
-  <img src="https://img.shields.io/badge/Mobile-Android-E6C87A?style=flat" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Algorithms-E6C87A?style=flat" />
-  <img src="https://img.shields.io/badge/Clean%20Code-Maintainable-E6C87A?style=flat" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TailwindCSS-tailwindcss.com-E6C87A?style=flat" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<!-- ================= STATS ================= -->
+<!-- ================= REPLACE SNAPSHOT (FINARE) ================= -->
+<h2>✨ Core Strengths</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,ts,nodejs" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/System%20Design-E6C87A?style=flat" />
+  <img src="https://img.shields.io/badge/Security-E6C87A?style=flat" />
+  <img src="https://img.shields.io/badge/Mobile%20Apps-E6C87A?style=flat" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-E6C87A?style=flat" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
+<!-- ================= FIXED STATS (NO WEIRD COLORS) ================= -->
 <h2>📈 GitHub Stats</h2>
+
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&hide_border=true&title_color=E6C87A&icon_color=E6C87A&text_color=111827&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&hide_border=true&title_color=E6C87A&icon_color=E6C87A&text_color=E5E7EB&bg_color=00000000"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz7&layout=compact&hide_border=true&title_color=E6C87A&text_color=111827&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz7&layout=compact&hide_border=true&title_color=E6C87A&text_color=E5E7EB&bg_color=00000000"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mouaz7&hide_border=true&background=00000000&ring=E6C87A&fire=E6C87A&currStreakLabel=E6C87A"
+    src="https://streak-stats.demolab.com?user=mouaz7&hide_border=true&background=00000000&ring=E6C87A&fire=E6C87A&currStreakLabel=E6C87A&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB"
   />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<!-- ================= CONNECT ================= -->
+<!-- ================= CONNECT (WITH ICONS) ================= -->
 <h2>🤝 Connect with me</h2>
+
 <p>
-  <a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/">LinkedIn</a> ·
-  <a href="https://instagram.com/mouaz_naji8">Instagram</a> ·
-  <a href="https://discord.gg/mouaz77">Discord</a>
+  <a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="22" />
+    LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/mouaz_naji8" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="22" />
+    Instagram
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/mouaz77" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="22" />
+    Discord
+  </a>
 </p>
