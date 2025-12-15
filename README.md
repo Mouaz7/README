@@ -174,27 +174,8 @@
 
 <p align="center">
   <img
-    alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=mouaz7&hide_border=false&border=E6C87A&background=0d1117&ring=E6C87A&fire=E6C87A&currStreakLabel=E6C87A&sideLabels=E6C87A&dates=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&border_radius=12"
-  />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img
     alt="Activity Graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=mouaz7&bg_color=0d1117&color=E6C87A&line=E6C87A&point=E5E7EB&area=true&area_color=E6C87A&hide_border=false&custom_title=Contribution%20Graph"
-  />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=200&lines=%F0%9F%8F%86+Trophies" alt="Trophies" />
-
-<p align="center">
-  <img
-    alt="GitHub Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=mouaz7&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=4&title_color=E6C87A&icon_color=E6C87A&text_color=E5E7EB&bg_color=0d1117"
   />
 </p>
 
