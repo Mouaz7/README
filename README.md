@@ -5,7 +5,7 @@
   />
 
   <h3>
-    Software Engineer · Backend & Systems Focus
+    ✨ Software Engineer · Backend & Systems Focus ✨
   </h3>
 
 <img
@@ -44,7 +44,7 @@
   My passion lies in the depths of computing: <b>Networking</b> 🌐, <b>Security</b> 🔒, and <b>Scalable Services</b> 📈.
 </p>
 
-<h3>🚀 Quick Facts</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=180&lines=%F0%9F%9A%80+Quick+Facts" alt="Quick Facts" />
 <ul>
   <li>🎯 Currently exploring <b>TypeScript, Node.js, and advanced React patterns</b></li>
   <li>🌱 Improving my knowledge in <b>Cloud, DevOps, and scalable systems</b></li>
@@ -54,9 +54,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=380&lines=%F0%9F%92%BC+Currently+Working+On" alt="Currently Working On" />
+
+<p align="center">
+  <a href="https://github.com/mouaz7">
+    <img src="https://img.shields.io/badge/🚀_Backend_Systems-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  </a>
+  <a href="https://github.com/mouaz7">
+    <img src="https://img.shields.io/badge/📱_Mobile_Apps-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  </a>
+  <a href="https://github.com/mouaz7">
+    <img src="https://img.shields.io/badge/🌐_Full_Stack_Projects-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=350&lines=%F0%9F%8E%AE+Hobbies+%26+Interests" alt="Hobbies & Interests" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮_Gaming-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/🎵_Music-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/💻_Coding-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/📚_Learning-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/🏋️_Fitness-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/☕_Coffee-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=350&lines=%F0%9F%9B%A0+Languages+%26+Tools+%F0%9F%92%BB" alt="Languages & Tools" />
 
-<h3>🎨 Frontend</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=150&lines=%F0%9F%8E%A8+Frontend" alt="Frontend" />
 <p>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" height="46" alt="HTML" style="margin:6px;" />
@@ -84,7 +113,7 @@
   </a>
 </p>
 
-<h3>⚙️ Backend</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=150&lines=%E2%9A%99%EF%B8%8F+Backend" alt="Backend" />
 <p>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="46" alt="Node.js" style="margin:6px;" />
@@ -103,7 +132,7 @@
   </a>
 </p>
 
-<h3>📱 Mobile</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=130&lines=%F0%9F%93%B1+Mobile" alt="Mobile" />
 <p>
   <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="46" alt="Android Studio" style="margin:6px;" />
@@ -116,7 +145,7 @@
   </a>
 </p>
 
-<h3>🗄️ Database</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=150&lines=%F0%9F%97%84%EF%B8%8F+Database" alt="Database" />
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="46" alt="MySQL" style="margin:6px;" />
@@ -135,7 +164,7 @@
   </a>
 </p>
 
-<h3>♾️ DevOps & Tools</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=220&lines=%E2%99%BE%EF%B8%8F+DevOps+%26+Tools" alt="DevOps & Tools" />
 <p>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="46" alt="Bash" style="margin:6px;" />
@@ -153,7 +182,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=200&lines=GitHub+Stats" alt="GitHub Stats" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=250&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
 
 <table width="100%">
   <tr>
@@ -190,24 +219,35 @@
   <a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/" target="_blank" rel="noopener noreferrer">
     <img
       alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=E6C87A"
+      src="https://img.shields.io/badge/LinkedIn-E6C87A?style=for-the-badge&logo=linkedin&logoColor=0d1117"
+      height="35"
     />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/mouaz_naji8" target="_blank" rel="noopener noreferrer">
     <img
       alt="Instagram"
-      src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E6C87A"
+      src="https://img.shields.io/badge/Instagram-E6C87A?style=for-the-badge&logo=instagram&logoColor=0d1117"
+      height="35"
     />
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.gg/mouaz77" target="_blank" rel="noopener noreferrer">
     <img
       alt="Discord"
-      src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=E6C87A"
+      src="https://img.shields.io/badge/Discord-E6C87A?style=for-the-badge&logo=discord&logoColor=0d1117"
+      height="35"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mouaz7" target="_blank" rel="noopener noreferrer">
+    <img
+      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-E6C87A?style=for-the-badge&logo=github&logoColor=0d1117"
+      height="35"
     />
   </a>
 </p>
-
-<!-- Footer Wave -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=E6C87A&height=120&section=footer"
