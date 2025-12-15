@@ -226,16 +226,6 @@
   </a>
 </p>
 
-<!-- Random Dev Quote -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
-
-<p align="center">
-  <img
-    alt="Dev Quote"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House&border=true"
-  />
-</p>
-
 <!-- Footer Wave -->
 
 <img
