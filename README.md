@@ -83,7 +83,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=350&lines=%F0%9F%9B%A0+Languages+%26+Tools+%F0%9F%92%BB" alt="Languages & Tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=300&lines=%F0%9F%9B%A0+Languages+%26+Tools" alt="Languages & Tools" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=150&lines=%F0%9F%8E%A8+Frontend" alt="Frontend" />
 <p>
