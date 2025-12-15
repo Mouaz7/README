@@ -34,8 +34,9 @@
   </a>
 </p>
 
-<h3 align="left">🌍🌟 About Me ✨🙌</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
+<h2 align="left">🌍🌟 About Me ✨🙌</h2>
 <p align="left">
   👋 Hi there! I'm <b>Mouaz Naji</b>, a passionate <b>Software Engineer</b> specialized in building robust <b>Backend Systems</b> ⚙️. 
   I thrive on <b>Clean Architecture</b>, <b>High Performance</b>, and <b>Reliability</b>. 
@@ -51,8 +52,9 @@
   <li>📬 Reach me anytime on <b>LinkedIn</b> or <b>Discord</b></li>
 </ul>
 
-<h3 align="left">🛠 Languages & Tools 💻</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
+<h2>🛠 Languages & Tools 💻</h2>
 
 <h3>🎨 Frontend</h3>
 <p>
@@ -149,8 +151,9 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
+<h2>GitHub Stats</h2>
 
 <table width="100%">
   <tr>
@@ -176,8 +179,9 @@
   />
 </p>
 
-<h3 align="left">📫 Connect with me</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
+
+<h2>📫 Connect with me</h2>
 <p align="center">
   Interested in working together or just want to say hi? Drop me a message!
 </p>
