@@ -111,6 +111,9 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="46" alt="Kotlin" style="margin:6px;" />
   </a>
+  <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/expo/white" alt="Expo" height="46" width="46" style="margin:6px; background-color: #242938; padding: 10px; border-radius: 6px; box-sizing: border-box;" />
+  </a>
 </p>
 
 <h3>🗄️ Database</h3>
