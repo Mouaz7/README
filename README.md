@@ -36,7 +36,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<h2 align="left">🌍🌟 About Me ✨🙌</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=300&lines=%F0%9F%8C%8D%F0%9F%8C%9F+About+Me+%E2%9C%A8%F0%9F%99%8C" alt="About Me" />
 <p align="left">
   👋 Hi there! I'm <b>Mouaz Naji</b>, a passionate <b>Software Engineer</b> specialized in building robust <b>Backend Systems</b> ⚙️. 
   I thrive on <b>Clean Architecture</b>, <b>High Performance</b>, and <b>Reliability</b>. 
@@ -54,7 +54,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<h2>🛠 Languages & Tools 💻</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=350&lines=%F0%9F%9B%A0+Languages+%26+Tools+%F0%9F%92%BB" alt="Languages & Tools" />
 
 <h3>🎨 Frontend</h3>
 <p>
@@ -153,7 +153,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<h2>GitHub Stats</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=200&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <table width="100%">
   <tr>
@@ -181,7 +181,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
 
-<h2>📫 Connect with me</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=280&lines=%F0%9F%93%AB+Connect+with+me" alt="Connect with me" />
 <p align="center">
   Interested in working together or just want to say hi? Drop me a message!
 </p>
