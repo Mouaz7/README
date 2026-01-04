@@ -25,11 +25,15 @@
 </div>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxx6rKHZEXS/giphy.gif"
-    alt="Amber Pixel Aesthetic"
-    style="max-width:100%; border-radius:12px; border: 2px solid #E6C87A;"
-  />
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"
+      alt="Chill Mario"
+      style="max-width:100%; border-radius:12px; border: 4px solid #E6C87A;"
+    />
+  </a>
+  <br/>
+  <em style="color: #E6C87A;">Late Night Coding Sessions ☕</em>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
