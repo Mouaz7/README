@@ -184,23 +184,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=1&amp;pause=99999&amp;color=E6C87A&amp;vCenter=true&amp;width=250&amp;lines=GitHub+Stats" alt="GitHub Stats" />
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=mouaz7&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=false&amp;border_color=E6C87A&amp;title_color=E6C87A&amp;icon_color=E6C87A&amp;text_color=E5E7EB&amp;bg_color=0d1117&amp;border_radius=12"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        alt="Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaz7&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;border_color=E6C87A&amp;title_color=E6C87A&amp;text_color=E5E7EB&amp;bg_color=0d1117&amp;border_radius=12&amp;exclude_repo=moap23-student.bth.se"
-      />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img
     alt="Activity Graph"
