@@ -25,10 +25,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-818910244" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"
-      alt="Chill Mario"
+      src="https://wayback.archive.org/web/20230312015025if_/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43206497-6a16-4355-8025-a74582f34842/dfunr8h-957193b2-6c3e-436f-87a1-2292f39ed9f5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzMjA2NDk3LTZhMTYtNDM1NS04MDI1LWE3NDU4MmYzNDg0MlwvZGZ1bnI4aC05NTcxOTNiMi02YzNlLTQzNmYtODdhMS0yMjkyZjM5ZWQ5ZjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F_Z_K0X-7F_O0f-C1L6Z8Z1-8Z1-8Z1-8Z1-8Z1-8Z1"
+      alt="Chill Mario 2023"
       style="max-width:100%; border-radius:12px;"
     />
   </a>
