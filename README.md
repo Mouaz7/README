@@ -8,12 +8,12 @@
     ✨ Software Engineer · Backend & Systems Focus ✨
   </h3>
 
-<img
+  <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=E6C87A&center=true&vCenter=true&width=920&lines=Scalable+Systems+%C2%B7+System+Design+%C2%B7+Performance;Security+%C2%B7+Networking+%C2%B7+Reliability;Mobile+Applications+%C2%B7+Android+%C2%B7+Cross-platform;Problem+Solving+%C2%B7+Algorithms+%C2%B7+Clean+Code;TypeScript+%C2%B7+Node.js+%C2%B7+Java+%C2%B7+Python+%C2%B7+C%2B%2B"
     alt="Typing SVG"
   />
 
-<br/><br/>
+  <br/><br/>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mouaz7&label=Profile%20views&color=E6C87A&style=flat" alt="Profile views" />
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://wayback.archive.org/web/20230312015025if_/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43206497-6a16-4355-8025-a74582f34842/dfunr8h-957193b2-6c3e-436f-87a1-2292f39ed9f5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzMjA2NDk3LTZhMTYtNDM1NS04MDI1LWE3NDU4MmYzNDg0MlwvZGZ1bnI4aC05NTcxOTNiMi02YzNlLTQzNmYtODdhMS0yMjkyZjM5ZWQ5ZjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F_Z_K0X-7F_O0f-C1L6Z8Z1-8Z1-8Z1-8Z1-8Z1-8Z1"
+      src="https://64.media.tumblr.com/712f865f6176395b23f208c903332194/40d473466f24164b-22/s1280x1920/190848074d2269a239965d137b8f97204f14120f.gifv"
       alt="Chill Mario 2023"
       style="max-width:100%; border-radius:12px;"
     />
