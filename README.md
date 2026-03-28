@@ -141,7 +141,7 @@
     <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" height="46" alt="Kotlin" style="margin:6px;" />
   </a>
   <a href="https://expo.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="icons/expo.svg" height="46" alt="Expo" style="margin:6px;" />
+    <img src="https://skillicons.dev/icons?i=expo&theme=dark" height="46" alt="Expo" style="margin:6px;" />
   </a>
 </p>
 
