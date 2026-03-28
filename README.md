@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://64.media.tumblr.com/712f865f6176395b23f208c903332194/40d473466f24164b-22/s1280x1920/190848074d2269a239965d137b8f97204f14120f.gifv"
+      src="YOUR_GITHUB_IMAGE_URL_HERE.gif"
       alt="Chill Mario 2023"
       style="max-width:100%; border-radius:12px;"
     />
