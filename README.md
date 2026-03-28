@@ -5,7 +5,7 @@
   />
 
   <h3>
-    ✨ Software Engineer · Backend & Systems Focus ✨
+    Software Engineer · Backend & Systems Focus
   </h3>
 
   <img
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885"
+      src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lnsMUNg7ATclGioenszRTwXXMFgtF4XG1nId-Sn1NcY"
       alt="Chill Mario 2023"
       style="max-width:100%; border-radius:12px;"
     />
@@ -38,18 +38,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=300&lines=%F0%9F%8C%8D%F0%9F%8C%9F+About+Me+%E2%9C%A8%F0%9F%99%8C" alt="About Me" />
 <p align="left">
-  👋 Hi there! I'm <b>Mouaz Naji</b>, a passionate <b>Software Engineer</b> specialized in building robust <b>Backend Systems</b> ⚙️. 
+  Hi there! I'm <b>Mouaz Naji</b>, a passionate <b>Software Engineer</b> specialized in building robust <b>Backend Systems</b>. 
   I thrive on <b>Clean Architecture</b>, <b>High Performance</b>, and <b>Reliability</b>. 
   <br />
-  My passion lies in the depths of computing: <b>Networking</b> 🌐, <b>Security</b> 🔒, and <b>Scalable Services</b> 📈.
+  My passion lies in the depths of computing: <b>Networking</b>, <b>Security</b>, and <b>Scalable Services</b>.
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=1&pause=99999&color=E6C87A&vCenter=true&width=180&lines=%F0%9F%9A%80+Quick+Facts" alt="Quick Facts" />
 <ul>
-  <li>🎯 Currently exploring <b>TypeScript, Node.js, and advanced React patterns</b></li>
-  <li>🌱 Improving my knowledge in <b>Cloud, DevOps, and scalable systems</b></li>
-  <li>🤝 Open for collaborations on <b>open-source projects</b></li>
-  <li>📬 Reach me anytime on <b>LinkedIn</b> or <b>Discord</b></li>
+  <li>Currently exploring <b>TypeScript, Node.js, and advanced React patterns</b></li>
+  <li>Improving my knowledge in <b>Cloud, DevOps, and scalable systems</b></li>
+  <li>Open for collaborations on <b>open-source projects</b></li>
+  <li>Reach me anytime on <b>LinkedIn</b> or <b>Discord</b></li>
 </ul>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
@@ -58,13 +58,13 @@
 
 <p align="center">
   <a href="https://github.com/mouaz7">
-    <img src="https://img.shields.io/badge/🚀_Backend_Systems-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+    <img src="https://img.shields.io/badge/Backend_Systems-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
   </a>
   <a href="https://github.com/mouaz7">
-    <img src="https://img.shields.io/badge/📱_Mobile_Apps-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+    <img src="https://img.shields.io/badge/Mobile_Apps-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
   </a>
   <a href="https://github.com/mouaz7">
-    <img src="https://img.shields.io/badge/🌐_Full_Stack_Projects-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+    <img src="https://img.shields.io/badge/Full_Stack_Projects-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
   </a>
 </p>
 
@@ -73,12 +73,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=E6C87A&vCenter=true&width=350&lines=%F0%9F%8E%AE+Hobbies+%26+Interests" alt="Hobbies & Interests" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎮_Gaming-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
-  <img src="https://img.shields.io/badge/🎵_Music-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
-  <img src="https://img.shields.io/badge/💻_Coding-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
-  <img src="https://img.shields.io/badge/📚_Learning-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
-  <img src="https://img.shields.io/badge/🏋️_Fitness-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
-  <img src="https://img.shields.io/badge/☕_Coffee-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/Gaming-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/Music-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/Coding-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/Learning-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/Fitness-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
+  <img src="https://img.shields.io/badge/Coffee-E6C87A?style=for-the-badge&labelColor=E6C87A&color=E6C87A" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E6C87A&height=2" width="100%" />
