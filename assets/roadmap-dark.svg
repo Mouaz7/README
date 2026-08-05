@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="455" viewBox="0 0 1200 455" role="img" aria-labelledby="title description">
+<title id="title">Mouaz current engineering direction</title>
+<desc id="description">A roadmap organized into current work, next capabilities and exploratory areas without arbitrary proficiency percentages.</desc>
+<defs>
+  <style>
+    text { font-family: ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    .title { fill:#ECF8F3; font-size:28px; font-weight:900; letter-spacing:-.4px; }
+    .label { fill:#86A398; font-size:11px; font-weight:800; letter-spacing:1.6px; }
+    .body { fill:#ECF8F3; font-size:14px; }
+    .small { fill:#86A398; font-size:12px; }
+    .tiny { fill:#86A398; font-size:10px; letter-spacing:.7px; }
+    .chip { fill:#ECF8F3; font-size:10px; font-weight:800; letter-spacing:.25px; }
+    .pulse { animation:pulse 2.1s ease-in-out infinite; }
+    .flow { animation:dash 2.4s linear infinite; }
+    .scan { animation:scan 5.8s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:.35} 50%{opacity:1} }
+    @keyframes dash { to{stroke-dashoffset:-32} }
+    @keyframes scan { 0%,100%{transform:translateY(0)} 50%{transform:translateY(390px)} }
+    @media (prefers-reduced-motion: reduce) { .pulse,.flow,.scan{animation:none !important} }
+  </style>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06100E"/>
+    <stop offset=".55" stop-color="#0E211B"/>
+    <stop offset="1" stop-color="#06100E"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#38D6AE"/>
+    <stop offset=".55" stop-color="#5BC9D7"/>
+    <stop offset="1" stop-color="#D9B963"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="75%" cy="30%" r="70%">
+    <stop offset="0" stop-color="#38D6AE" stop-opacity=".18"/>
+    <stop offset=".65" stop-color="#5BC9D7" stop-opacity=".04"/>
+    <stop offset="1" stop-color="#06100E" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#1B4438" stroke-width=".7" opacity=".32"/>
+  </pattern>
+  <pattern id="micro" width="8" height="8" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r=".8" fill="#38D6AE" opacity=".18"/>
+  </pattern>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="455" rx="24" fill="url(#surface)"/>
+<rect x="4" y="4" width="1192" height="447" rx="21" fill="none" stroke="url(#accent)" stroke-width="1.6"/>
+<text x="38" y="52" class="title">&gt; ./roadmap --mode=honest --format=next-actions</text>
+<text x="38" y="79" class="small">Status communicates direction. No fake precision, no self-scored proficiency bars.</text>
+<g>
+  <rect x="40" y="104" width="360" height="277" rx="17" fill="#0A1713" stroke="#1B4438"/>
+  <rect x="40" y="104" width="360" height="46" rx="17" fill="#0E211B"/>
+  <rect x="40" y="104" width="7" height="277" rx="4" fill="#38D6AE"/>
+  <text x="62" y="134" fill="#38D6AE" font-size="14" font-weight="950" letter-spacing="1.2">NOW</text>
+  <g transform="translate(58 144)">
+  <circle cx="8" cy="8" r="5" fill="#38D6AE"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">THESIS PLATFORM</text>
+  <text x="24" y="34" class="small">AI-assisted CI/CD repair with controlled autonomy</text>
+</g><g transform="translate(58 216)">
+  <circle cx="8" cy="8" r="5" fill="#38D6AE"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">BACKEND DEPTH</text>
+  <text x="24" y="34" class="small">Reliable services, APIs and data boundaries</text>
+</g><g transform="translate(58 288)">
+  <circle cx="8" cy="8" r="5" fill="#38D6AE"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">VERIFICATION</text>
+  <text x="24" y="34" class="small">Testing, security gates and measurable behavior</text>
+</g>
+</g><g>
+  <rect x="426" y="104" width="360" height="277" rx="17" fill="#0A1713" stroke="#1B4438"/>
+  <rect x="426" y="104" width="360" height="46" rx="17" fill="#0E211B"/>
+  <rect x="426" y="104" width="7" height="277" rx="4" fill="#D9B963"/>
+  <text x="448" y="134" fill="#D9B963" font-size="14" font-weight="950" letter-spacing="1.2">NEXT</text>
+  <g transform="translate(444 144)">
+  <circle cx="8" cy="8" r="5" fill="#D9B963"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">CLOUD DELIVERY</text>
+  <text x="24" y="34" class="small">Deployment, containers and production operations</text>
+</g><g transform="translate(444 216)">
+  <circle cx="8" cy="8" r="5" fill="#D9B963"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">OBSERVABILITY</text>
+  <text x="24" y="34" class="small">Logs, metrics, traces and incident feedback</text>
+</g><g transform="translate(444 288)">
+  <circle cx="8" cy="8" r="5" fill="#D9B963"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">DISTRIBUTED SYSTEMS</text>
+  <text x="24" y="34" class="small">Service communication and failure trade-offs</text>
+</g>
+</g><g>
+  <rect x="812" y="104" width="360" height="277" rx="17" fill="#0A1713" stroke="#1B4438"/>
+  <rect x="812" y="104" width="360" height="46" rx="17" fill="#0E211B"/>
+  <rect x="812" y="104" width="7" height="277" rx="4" fill="#5BC9D7"/>
+  <text x="834" y="134" fill="#5BC9D7" font-size="14" font-weight="950" letter-spacing="1.2">EXPLORE</text>
+  <g transform="translate(830 144)">
+  <circle cx="8" cy="8" r="5" fill="#5BC9D7"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">AGENT EVALUATION</text>
+  <text x="24" y="34" class="small">Trust, model routing and controlled autonomy</text>
+</g><g transform="translate(830 216)">
+  <circle cx="8" cy="8" r="5" fill="#5BC9D7"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">SECURITY ENGINEERING</text>
+  <text x="24" y="34" class="small">Threat-aware design across the lifecycle</text>
+</g><g transform="translate(830 288)">
+  <circle cx="8" cy="8" r="5" fill="#5BC9D7"/>
+  <text x="24" y="12" fill="#ECF8F3" font-size="12" font-weight="900">DATA PERFORMANCE</text>
+  <text x="24" y="34" class="small">Query plans, caching and database optimization</text>
+</g>
+</g>
+<g transform="translate(40 403)">
+  <text x="0" y="18" class="label">ENGINEERING LOOP</text>
+  <path d="M165 14H1110" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="8 8" class="flow"/>
+  <g fill="#0E211B" stroke="#1B4438">
+    <rect x="170" width="126" height="30" rx="9"/><rect x="326" width="126" height="30" rx="9"/><rect x="482" width="126" height="30" rx="9"/>
+    <rect x="638" width="126" height="30" rx="9"/><rect x="794" width="126" height="30" rx="9"/><rect x="950" width="126" height="30" rx="9"/>
+  </g>
+  <g class="chip" text-anchor="middle"><text x="233" y="20">UNDERSTAND</text><text x="389" y="20">DESIGN</text><text x="545" y="20">BUILD</text><text x="701" y="20">VERIFY</text><text x="857" y="20">SHIP</text><text x="1013" y="20">LEARN</text></g>
+</g>
+</svg>
