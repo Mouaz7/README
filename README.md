@@ -1,82 +1,143 @@
+<a href="https://github.com/Mouaz7/Mouaz7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/hero-dark.svg">
+    <img width="100%" alt="Mouaz Naji — Software Engineer" src="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/hero-light.svg">
+  </picture>
+</a>
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mouaz7&bg_color=0D1117&color=E6C87A&line=E6C87A&point=FFFFFF&area=true&area_color=E6C87A&hide_border=true&custom_title=Mouaz%20Naji%20%E2%80%94%20Contribution%20Graph" alt="Mouaz Naji contribution graph" />
 
-<br/>
 
-<img src="https://avatars.githubusercontent.com/u/150366708?v=4" width="190" alt="Mouaz Naji" />
 
-<h1>Mouaz Naji</h1>
-<h3>Software Engineer · Backend, Systems, AI & Security</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=E6C87A&center=true&vCenter=true&width=900&lines=Building+reliable+backend+and+full-stack+systems;Exploring+AI-assisted+software+engineering;Working+with+operating+systems%2C+networks+and+security;Focused+on+clean+architecture+and+performance" alt="Typing introduction" />
+</div>
 
-<br/><br/>
+> navigation --quick
 
-<img src="https://img.shields.io/badge/Software%20Engineering-BTH-E6C87A?style=flat-square&labelColor=0D1117" alt="Software Engineering at BTH" />
-<img src="https://img.shields.io/badge/Location-Sweden-E6C87A?style=flat-square&labelColor=0D1117" alt="Location Sweden" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-E6C87A?style=flat-square&labelColor=0D1117" alt="Open to collaboration" />
+<div align="center">
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/"><img src="https://img.shields.io/badge/LinkedIn-E6C87A?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a><a href="https://github.com/Mouaz7"><img src="https://img.shields.io/badge/GitHub-E6C87A?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub" /></a><a href="https://instagram.com/mouaz_naji8"><img src="https://img.shields.io/badge/Instagram-E6C87A?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mouaz7&style=flat-square&color=E6C87A&labelColor=0D1117&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Mouaz7?style=flat-square&color=E6C87A&labelColor=0D1117&logo=github&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Mouaz7?style=flat-square&color=E6C87A&labelColor=0D1117&logo=github&label=Stars" alt="Stars" />
+About • Architecture • Capabilities • Tech Stack • Projects • Education • Roadmap • Stats • Contact
 
 </div>
 
 > whoami
 
-Software Engineering student at Blekinge Institute of Technology (BTH) focused on reliable backend services, scalable applications and secure software systems.
+I am Mouaz Naji, a Software Engineering student at Blekinge Institute of Technology (BTH) focused on building dependable software across backend systems, AI-assisted workflows, operating-system concepts, networking and security.
 
-My main interests are backend engineering, system design, generative AI, operating systems, networking, security and performance optimization.
+I am especially interested in work where several engineering areas meet: APIs connected to automation, AI agents constrained by safety gates, concurrent systems measured for performance, and applications designed with clear architectural boundaries.
 
-$ cat .profile
+What I optimize for
 
-NAME         =  Mouaz Naji
-ROLE         =  Software Engineer
-EDUCATION    =  Software Engineering @ BTH
-FOCUS        =  Backend Systems | System Design | AI
-INTERESTS    =  Security | Networking | Operating Systems
-LANGUAGES    =  Python | C++ | Java | TypeScript | JavaScript | C
-DATABASES    =  PostgreSQL | MySQL | MariaDB | SQLite | Firebase
-TOOLS        =  Git | Linux | Docker | Bash
-LOCATION     =  Sweden
-OPEN_TO      =  Open Source | Software Projects | Collaboration
+Principle
 
-> ls /engineering-focus
+What it means in practice
 
-Area
+Reliability
+
+Clear failure handling, observable behavior and predictable system states
+
+Architecture
+
+Explicit boundaries, directional dependencies and maintainable components
+
+Security
+
+Validation, protected credentials, review gates and least-privilege thinking
+
+Performance
+
+Measurement before optimization, efficient algorithms and resource awareness
+
+Quality
+
+Tests, readable code, documentation and repeatable development workflows
+
+$ cat /etc/mouaz/profile.conf
+
+NAME          = Mouaz Naji
+ROLE          = Software Engineer
+EDUCATION     = Software Engineering @ BTH
+LOCATION      = Sweden
+PRIMARY       = Backend Systems | Generative AI | System Design
+SYSTEMS       = Linux | Processes | Threads | IPC | Filesystems | Networks
+LANGUAGES     = Python | C++ | C | Java | TypeScript | JavaScript | Kotlin
+DATA          = PostgreSQL | MySQL | MariaDB | SQLite | Firebase
+TOOLS         = Git | GitHub | Docker | Bash | Android Studio | VS Code
+PRINCIPLES    = Reliability | Security | Performance | Clean Architecture
+OPEN_TO       = Collaboration | Open Source | Software Engineering Projects
+
+> architecture.map
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/architecture-dark.svg">
+  <img width="100%" alt="Mouaz engineering architecture map" src="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/architecture-light.svg">
+</picture>
+
+Engineering domains
+
+Domain
 
 What I work with
 
+Key themes
+
 Backend Systems
 
-APIs, databases, validation, authentication and scalable architecture
+APIs, services, validation and authentication
+
+Modularity, error handling, reliability
 
 AI Engineering
 
-LLM integrations, autonomous agents, automation and intelligent workflows
+LLM integrations, autonomous agents and developer automation
+
+Orchestration, memory, evaluation, HITL
 
 Systems Programming
 
-Processes, threads, IPC, memory management and file systems
+Software close to the operating system
+
+Processes, threads, synchronization, IPC
 
 Secure Software
 
-Input validation, secrets protection, quality gates and human review
+Controls that reduce unsafe changes
+
+Secret handling, static checks, protected paths
 
 Networking
 
-TCP/UDP communication, packet behavior, reliability and performance
+Communication behavior and protocol trade-offs
+
+TCP, UDP, throughput, packet loss
+
+Data Engineering
+
+Persistent state and structured data
+
+SQL, Firebase, schemas, queries
+
+DevOps
+
+Repeatable delivery and operational workflows
+
+Linux, Docker, CI/CD, observability
 
 Software Architecture
 
-Clean Architecture, modular design, separation of concerns and testing
+Systems that remain understandable as they grow
+
+Clean Architecture, interfaces, testing
+
+> capabilities.matrix
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/capabilities-dark.svg">
+  <img width="100%" alt="Mouaz capability matrix" src="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/capabilities-light.svg">
+</picture>
+
+The percentages are visual self-assessments, not certifications. The evidence is in the linked projects and technical work below.
 
 > ls /tech-stack
 
@@ -86,9 +147,9 @@ Clean Architecture, modular design, separation of concerns and testing
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,kotlin,bash&theme=dark" alt="Programming languages" />
 
-[ Frontend ]
+[ Frontend & Mobile ]
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,androidstudio&theme=dark" alt="Frontend and mobile technologies" />
 
 [ Backend & Data ]
 
@@ -96,79 +157,47 @@ Clean Architecture, modular design, separation of concerns and testing
 
 [ Systems, DevOps & Tools ]
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,androidstudio,vscode&theme=dark" alt="Systems, DevOps and tools" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Clean%20Architecture-E6C87A?style=flat-square&labelColor=0D1117" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/REST%20APIs-E6C87A?style=flat-square&labelColor=0D1117" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Concurrency-E6C87A?style=flat-square&labelColor=0D1117" alt="Concurrency" />
-<img src="https://img.shields.io/badge/IPC-E6C87A?style=flat-square&labelColor=0D1117" alt="IPC" />
-<img src="https://img.shields.io/badge/TCP%20%2F%20UDP-E6C87A?style=flat-square&labelColor=0D1117" alt="TCP and UDP" />
-<img src="https://img.shields.io/badge/Authentication-E6C87A?style=flat-square&labelColor=0D1117" alt="Authentication" />
-<img src="https://img.shields.io/badge/Testing-E6C87A?style=flat-square&labelColor=0D1117" alt="Testing" />
-<img src="https://img.shields.io/badge/Generative%20AI-E6C87A?style=flat-square&labelColor=0D1117" alt="Generative AI" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,cmake&theme=dark" alt="Systems and DevOps tools" />
 
 </div>
 
-> cat engineering-capabilities.json
+Engineering practices
 
-Domain
 
-Level
 
-Practical experience
+> cat engineering_principles.yaml
 
-Backend Development
+architecture:
+  - separate responsibilities before adding features
+  - keep dependencies explicit and directional
+  - design interfaces around behavior, not implementation details
 
-████░ Strong
+reliability:
+  - handle failure as a normal system state
+  - prefer observable workflows over silent automation
+  - add limits, deduplication and auditability to autonomous systems
 
-APIs, validation, authentication, data access and modular services
+security:
+  - validate inputs and protect credentials
+  - use least privilege and protected paths
+  - keep humans in control of high-impact decisions
 
-System Programming
-
-████░ Strong
-
-Threads, processes, synchronization, IPC and memory algorithms
-
-AI Integrations
-
-████░ Strong
-
-Multi-agent workflows, LLM orchestration and automated remediation
-
-Databases
-
-████░ Strong
-
-Relational design, SQL, persistence and Firebase
-
-Networking
-
-███░░ Practical
-
-TCP/UDP senders, receivers, throughput and packet-loss analysis
-
-Security
-
-███░░ Practical
-
-Secret scanning, secure changes, quality gates and human approval
-
-Mobile Development
-
-███░░ Practical
-
-Android, Kotlin, Firebase and MVVM/Clean Architecture
+quality:
+  - test behavior, not only individual functions
+  - keep code readable enough to review under pressure
+  - optimize after measuring, not before understanding
 
 > ls /projects --sort=impact
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/projects-dark.svg">
+  <img width="100%" alt="Mouaz selected projects" src="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/projects-light.svg">
+</picture>
+
 <details open>
-<summary><b>▶ Auto-Healing AI DevOps Platform</b></summary>
+<summary><b>▶ Auto-Healing AI DevOps Platform — Bachelor Thesis Project</b></summary>
 
-<br/>
-
-A research-oriented self-healing CI/CD platform that detects failed builds, analyses logs, generates fixes and creates pull requests while keeping a human reviewer in control.
+A self-healing CI/CD research prototype that detects failed builds, compresses and analyses logs, generates candidate fixes, runs quality and security checks, opens a pull request and notifies a human reviewer.
 
 Aspect
 
@@ -180,19 +209,15 @@ Python · LLMs · GitHub · Jenkins · Slack · Docker
 
 Architecture
 
-Multi-agent pipeline with orchestration and specialized MCP services
+Six-agent pipeline coordinated through an orchestrator and specialized services
 
-Reliability
+Safety
 
-Retry limits, deduplication, audit logs and regression-loop prevention
+Enforced human review, protected paths, secret scanning and regression blocking
 
-Security
+Quality
 
-Secret scanning, Bandit, Pylint, protected paths and enforced human review
-
-Research
-
-Bachelor thesis project at BTH
+Bandit, Pylint, syntax validation, retry limits and audit logging
 
 Repository
 
@@ -201,11 +226,9 @@ Mouaz7/auto-healing-devops-platform
 </details>
 
 <details>
-<summary><b>▶ Campus360 — Campus Navigation Platform</b></summary>
+<summary><b>▶ Campus360 — Hybrid Campus Navigation</b></summary>
 
-<br/>
-
-An Android application for indoor and outdoor campus navigation with search, favorites, localization and secure Firebase authentication.
+An Android application that combines outdoor maps and indoor floor plans with search, favorites, localization and secure Firebase authentication.
 
 Aspect
 
@@ -217,15 +240,11 @@ Kotlin · Android · Firebase · Google Maps
 
 Architecture
 
-MVVM with Clean Architecture
+MVVM with Clean Architecture boundaries
 
 Features
 
-Hybrid maps, smart search, navigation, favorites and dark mode
-
-Platform
-
-Android 8.0+
+Hybrid navigation, smart search, favorites, dark mode and localization
 
 Repository
 
@@ -234,11 +253,59 @@ Mouaz7/Campus360
 </details>
 
 <details>
-<summary><b>▶ Concurrency Systems</b></summary>
+<summary><b>▶ PongPal — Slack, Web and IoT Booking Ecosystem</b></summary>
 
-<br/>
+An internal Softhouse project connecting a web application, Slack commands, Firebase services and Raspberry Pi camera control for booking and match tracking.
 
-A systems-programming collection demonstrating processes, POSIX threads, synchronization, IPC and page-replacement algorithms.
+Aspect
+
+Detail
+
+Stack
+
+React · TypeScript · Slack API · Firebase · Python · Raspberry Pi
+
+Integrations
+
+Bookings, match results, leaderboards, statistics and table status
+
+Repository
+
+Mouaz7/PongPal-Showcase
+
+</details>
+
+<details>
+<summary><b>▶ Chess Game — Modern C++ and SFML</b></summary>
+
+A graphical chess application with legal move validation, special rules, timers, history tracking and a Chess.com-inspired interface.
+
+Aspect
+
+Detail
+
+Stack
+
+C++20 · SFML 3.0 · vcpkg · Visual Studio
+
+Design
+
+Abstract piece hierarchy, polymorphism, RAII and smart pointers
+
+Rules
+
+Castling, en passant, promotion, checkmate, stalemate and draw conditions
+
+Repository
+
+Mouaz7/chess-game
+
+</details>
+
+<details>
+<summary><b>▶ Concurrency Systems — POSIX and Operating-System Concepts</b></summary>
+
+A systems-programming collection demonstrating concurrency, synchronization, IPC and page-replacement algorithms in C.
 
 Aspect
 
@@ -250,15 +317,15 @@ C · Linux · POSIX Threads
 
 Concurrency
 
-Threads, mutexes, semaphores and deadlock prevention
+pthreads, mutexes, semaphores and parallel matrix multiplication
 
 IPC
 
-Shared memory and message queues
+Shared memory and System V message queues
 
-Algorithms
+Memory
 
-FIFO, LRU and Optimal page replacement
+FIFO, LRU and Optimal page-replacement algorithms
 
 Repository
 
@@ -267,11 +334,9 @@ Mouaz7/Concurrency-Systems
 </details>
 
 <details>
-<summary><b>▶ OS Filesystem</b></summary>
+<summary><b>▶ OS Filesystem — FAT-Based Virtual Storage</b></summary>
 
-<br/>
-
-A FAT-based virtual file system with an interactive shell, hierarchical directories, Unix-like permissions and path resolution.
+A simulated filesystem with a command shell, hierarchical directories, permission flags, path resolution and virtual block storage.
 
 Aspect
 
@@ -281,17 +346,13 @@ Stack
 
 C++ · Linux · Make
 
-Storage
+Architecture
 
-8 MB virtual disk with FAT allocation
+Interactive shell → filesystem core → disk I/O layer
 
 Features
 
 Files, directories, permissions, path resolution and formatting
-
-Architecture
-
-Shell layer · Filesystem core · Disk I/O layer
 
 Repository
 
@@ -300,11 +361,9 @@ Mouaz7/Os_filesystem
 </details>
 
 <details>
-<summary><b>▶ C++ Transport System</b></summary>
+<summary><b>▶ C++ Transport System — OOP and Persistence</b></summary>
 
-<br/>
-
-A modular transport-management application for shuttles, passenger groups and schedule persistence.
+A terminal-based transport-management application for shuttles, passenger groups and time-constrained schedules.
 
 Aspect
 
@@ -316,15 +375,11 @@ C++ · Visual Studio
 
 Design
 
-Object-oriented architecture with inheritance and polymorphism
+Encapsulation, inheritance, polymorphism and modular managers
 
-Data
+Persistence
 
-File-based persistence using standard streams
-
-Features
-
-Shuttle management, passenger registration and scheduling
+File streams for shuttles, passengers and schedules
 
 Repository
 
@@ -333,11 +388,9 @@ Mouaz7/Cpp-TransportSystem
 </details>
 
 <details>
-<summary><b>▶ Network UDP/TCP Analysis</b></summary>
+<summary><b>▶ Network UDP/TCP Analysis — Protocol Behavior</b></summary>
 
-<br/>
-
-Python implementations and performance analysis of TCP and UDP communication under different transmission rates.
+Python senders and receivers used to study delivery behavior at different packet rates.
 
 Aspect
 
@@ -347,13 +400,13 @@ Stack
 
 Python · TCP · UDP
 
-Testing
+Measurements
 
-Controlled packet rates and throughput measurement
+Packet rate, throughput, ordering and loss
 
 Analysis
 
-Packet loss, ordering, retransmission and reliability
+UDP loss under load versus TCP ordering and retransmission
 
 Repository
 
@@ -363,52 +416,136 @@ Mouaz7/network-udp-tcp-analysis
 
 > cat education.log
 
-[BTH] Software Engineering
+Software Engineering @ BTH
 
-Core areas:
+FOUNDATION
+├── Programming in Python, C, C++ and Java
 ├── Algorithms and Data Structures
-├── Databases and Backend Development
-├── Operating Systems and Concurrency
+├── Object-Oriented Design
+└── Computational Problem Solving
+
+SYSTEMS
+├── Operating Systems
+├── Processes, Threads and IPC
 ├── Computer Networks
+├── Embedded and Assembly Programming
+└── Performance and Resource Management
+
+SOFTWARE ENGINEERING
+├── Requirements Engineering
+├── Software Architecture and Design Patterns
+├── Verification, Validation and Testing
+├── Team-Based Development
+└── Maintainability and Quality
+
+DATA, SECURITY AND AI
+├── Database Technology
 ├── Security and Cryptography
 ├── Artificial Intelligence
-├── Software Architecture
-├── Requirements Engineering
-├── Testing and System Verification
-└── Team-Based Software Projects
+├── Generative AI Integrations
+└── Safe Automation and Human Control
+
+> engineering.roadmap
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/roadmap-dark.svg">
+  <img width="100%" alt="Mouaz engineering roadmap" src="https://raw.githubusercontent.com/Mouaz7/Mouaz7/main/assets/roadmap-light.svg">
+</picture>
+
+Areas I am deepening
+
+Distributed systems and service-to-service communication.
+
+Cloud-native deployment, observability and production operations.
+
+Advanced backend performance and database optimization.
+
+AI agent evaluation, trust and controlled autonomy.
+
+Security engineering integrated throughout the development lifecycle.
+
+> ps aux | grep current-work
+
+Process
+
+State
+
+Description
+
+backend.systems
+
+RUNNING
+
+Designing APIs and modular application services
+
+ai.devtools
+
+RUNNING
+
+Exploring AI-assisted repair, orchestration and evaluation
+
+cloud.devops
+
+LEARNING
+
+Improving deployment, automation and infrastructure knowledge
+
+security.practice
+
+ACTIVE
+
+Applying secure defaults, quality gates and review controls
+
+performance.lab
+
+ACTIVE
+
+Measuring concurrency, networking and algorithmic behavior
+
+open.source
+
+READY
+
+Looking for useful projects and collaborative engineering work
 
 > git stats --user Mouaz7
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mouaz7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6C87A&text_color=FFFFFF&icon_color=E6C87A" alt="Mouaz GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouaz7&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6C87A&text_color=FFFFFF" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mouaz7&show_icons=true&hide_border=true&bg_color=05080B&title_color=E6C87A&text_color=EAFEF7&icon_color=35F2C1" alt="Mouaz GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouaz7&layout=compact&hide_border=true&bg_color=05080B&title_color=E6C87A&text_color=EAFEF7" alt="Most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mouaz7&hide_border=true&background=0D1117&ring=E6C87A&fire=E6C87A&currStreakLabel=E6C87A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Mouaz7&hide_border=true&background=05080B&ring=35F2C1&fire=E6C87A&currStreakLabel=61E7E2&sideLabels=EAFEF7&currStreakNum=EAFEF7&sideNums=EAFEF7&dates=8DB8AA" alt="GitHub contribution streak" />
 
 </div>
 
-> echo $CURRENT_DIRECTION
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mouaz7&bg_color=05080B&color=8DB8AA&line=35F2C1&point=E6C87A&area=true&area_color=35F2C1&hide_border=true&custom_title=Contribution%20Matrix">
+  <img width="100%" alt="Mouaz contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mouaz7&bg_color=F4F7F5&color=5E7B70&line=0F8B6D&point=A66F00&area=true&area_color=0F8B6D&hide_border=true&custom_title=Contribution%20Matrix">
+</picture>
 
-BUILD      → Reliable backend and full-stack systems
-LEARN      → Cloud, DevOps, distributed systems and advanced AI
-IMPROVE    → Performance, testing, security and architecture
-EXPLORE    → Open-source collaboration and production-grade engineering
+> cat /personal/interests.txt
+
+<div align="center">
+
+
+
+</div>
 
 > connect --with Mouaz
 
 <div align="center">
 
-Interested in software engineering, backend systems, AI or open-source collaboration?
+I am interested in conversations and collaborations around backend engineering, system design, AI-assisted development, security, performance and open-source software.
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-E6C87A?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="Connect on LinkedIn" /></a><a href="https://github.com/Mouaz7"><img src="https://img.shields.io/badge/Explore%20my%20repositories-E6C87A?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore my repositories" /></a>
 
-<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E6C87A&height=110&section=footer" alt="Footer" />
+<br/>
+
+mouaz@engineering:~$ echo "Build carefully. Measure honestly. Improve continuously."
 
 </div>
