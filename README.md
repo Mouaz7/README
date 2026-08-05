@@ -1,4 +1,9 @@
-<a id="top"></a><picture><source media="(prefers-color-scheme: dark)" srcset="./dark.svg"><img width="100%" alt="Mouaz Naji — Software Engineer focused on backend systems, architecture, AI and secure delivery" src="./light.svg"></picture>
+<a id="top"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <img width="100%" alt="Mouaz Naji — Software Engineer focused on backend systems, architecture, AI and secure delivery" src="./light.svg">
+</picture>
 
 <p align="center">
   <a href="https://github.com/Mouaz7"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1714?style=for-the-badge&logo=github&logoColor=38D6AE"></a>
@@ -8,85 +13,73 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#engineering-system">Engineering system</a> ·
-  <a href="#featured-work">Featured work</a> ·
-  <a href="#technology">Technology</a> ·
-  <a href="#roadmap">Roadmap</a> ·
-  <a href="#contact">Contact</a>
+  <a href="#boot"><code>boot</code></a> ·
+  <a href="#architecture"><code>architecture</code></a> ·
+  <a href="#projects"><code>projects</code></a> ·
+  <a href="#toolchain"><code>toolchain</code></a> ·
+  <a href="#education"><code>education</code></a> ·
+  <a href="#roadmap"><code>roadmap</code></a> ·
+  <a href="#contact"><code>contact</code></a>
 </p>
 
-<a id="about"></a>
+---
 
-> ./whoami --concise
+<a id="boot"></a>
 
-I am Mouaz Naji, a Software Engineering student at Blekinge Institute of Technology. I build software across backend services, systems programming, databases, mobile development and AI-assisted engineering workflows.
+## `mouaz@github:~$ ./boot-profile --verbose`
 
-My strongest work sits at the boundaries between disciplines: APIs connected to automation, AI agents constrained by quality gates, mobile products backed by cloud services, and low-level software where correctness, synchronization and resource handling matter.
+```console
+[  OK  ] identity.mount        Mouaz Naji
+[  OK  ] role.service          Software Engineer
+[  OK  ] education.target      Software Engineering @ BTH
+[  OK  ] location.socket       Sweden
+[  OK  ] focus.pipeline        backend → systems → architecture → generative AI
+[ LIVE ] status                learning · building · verifying · shipping
+```
 
-PRIMARY      backend systems · software architecture · generative AI
-SYSTEMS      Linux · processes · threads · IPC · filesystems · networking
-LANGUAGES    Python · C++ · C · Java · TypeScript · JavaScript · Kotlin
-PRINCIPLES   reliability · security · maintainability · measured performance
+I build dependable software from API boundaries down to threads, filesystems and network behavior. My strongest work connects several engineering layers: backend services with automation, AI agents with safety controls, mobile products with cloud data, and low-level systems where correctness and resource handling matter.
 
-I prefer evidence over labels: repositories, architecture decisions, tests, failure handling and measurable behavior.
+```ini
+PRIMARY     = backend systems | software architecture | generative AI
+SYSTEMS     = Linux | processes | threads | IPC | filesystems | networking
+LANGUAGES   = Python | C++ | C | Java | TypeScript | JavaScript | Kotlin
+PRINCIPLES  = reliability | security | maintainability | measured performance
+```
 
-<a id="engineering-system"></a>
+> `policy:` evidence over labels — repositories, architecture decisions, tests, failure handling and observable behavior.
 
-> ./engineering-os --inspect
+---
+
+<a id="architecture"></a>
+
+## `mouaz@github:~$ systemctl status engineering.service`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/system-map-dark.svg">
   <img width="100%" alt="Layered engineering operating system showing inputs, architecture layers, delivery outputs and quality controls" src="./assets/system-map-light.svg">
 </picture>
 
-Capability evidence
+```console
+● engineering.service - Mouaz Engineering Runtime
+     Loaded: loaded (/etc/mouaz/engineering.service)
+     Active: active (building)
+     Scope : backend · AI · systems · security · data · delivery
+     Policy: design → implement → test → observe → improve
+```
 
-Domain
-
-What I work with
-
-Evidence
-
-Backend & architecture
-
-APIs, authentication, validation, persistence, modular services
-
-Auto-Healing platform, PongPal, Campus360
-
-AI engineering
-
-Agent orchestration, model fallback, log analysis, human approval
-
-Auto-Healing AI DevOps Platform
-
-Systems programming
-
-POSIX threads, synchronization, IPC, paging, filesystems
-
-Concurrency Systems, OS Filesystem
-
-Security & quality
-
-Secret scanning, protected paths, static analysis, regression gates
-
-Auto-Healing platform and engineering workflows
-
-Data & integration
-
-SQL, Firebase, realtime state and external APIs
-
-Campus360, PongPal, application projects
-
-Product development
-
-Android, React, TypeScript, C++ interfaces and state feedback
-
-Campus360, PongPal, Chess Game
+| Unit | State | Evidence |
+| :-- | :--: | :-- |
+| `backend.service` | `ACTIVE` | APIs, authentication, validation, persistence and modular services |
+| `ai-orchestration.service` | `ACTIVE` | Agent pipelines, model fallback, log analysis and human approval |
+| `systems.service` | `ACTIVE` | POSIX threads, mutexes, semaphores, IPC, paging and filesystems |
+| `security-gates.service` | `ACTIVE` | Secret scanning, protected paths, static analysis and regression blocking |
+| `data.service` | `ACTIVE` | SQL, Firebase, realtime state, schema design and external integrations |
+| `product.service` | `ACTIVE` | Android, React, TypeScript, C++ interfaces and user-state feedback |
 
 <details>
-<summary><b>Engineering principles</b></summary>
+<summary><code>mouaz@github:~$ cat /etc/mouaz/engineering-principles.yml</code></summary>
 
+```yaml
 architecture:
   - separate responsibilities before adding features
   - keep dependencies explicit and directional
@@ -94,167 +87,168 @@ architecture:
 
 reliability:
   - treat failure as a normal system state
-  - add limits, retries, deduplication and auditability where needed
+  - use limits, retries, deduplication and auditability where needed
   - prefer observable workflows over silent automation
 
 security:
   - validate inputs and protect credentials
-  - use least privilege and protected paths
+  - apply least privilege and protected paths
   - keep humans in control of high-impact automated decisions
 
 quality:
   - test behavior and failure paths
   - optimize after measuring
   - keep code reviewable under pressure
+```
 
 </details>
 
-<a id="featured-work"></a>
+---
 
-> ./projects --select=proof
+<a id="projects"></a>
+
+## `mouaz@github:~$ ls -lah ~/projects --sort=impact`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/project-console-dark.svg">
   <img width="100%" alt="Six selected software engineering projects grouped by engineering evidence" src="./assets/project-console-light.svg">
 </picture>
 
-Project
-
-Domain
-
-Stack
-
-Engineering proof
-
-Auto-Healing AI DevOps
-
-AI / DevOps
-
-Python · LLMs · Jenkins · Docker
-
-Quality gates · HITL · repair orchestration
-
-Campus360
-
-Android / Architecture
-
-Kotlin · Firebase · Google Maps
-
-MVVM · Clean boundaries · navigation
-
-PongPal
-
-Full-Stack / IoT
-
-React · Slack · Firebase · Python
-
-Realtime booking · commands · integrations
-
-Chess Game
-
-C++ / Product
-
-C++20 · SFML 3.0 · vcpkg
-
-Rules engine · RAII · state feedback
-
-Concurrency Systems
-
-Systems / POSIX
-
-C · pthreads · IPC · Linux
-
-Mutexes · semaphores · memory algorithms
-
-OS Filesystem
-
-C++ / Storage
-
-C++ · FAT · Linux · Make
-
-Virtual disk · paths · permissions
+| Mode | Project | Runtime | Engineering proof |
+| :--: | :-- | :-- | :-- |
+| `SOURCE` | **[Auto-Healing AI DevOps](https://github.com/Mouaz7/auto-healing-devops-platform)** | Python · LLMs · Jenkins · Docker | Six-agent remediation pipeline, HITL, traffic-light controls, security and quality gates |
+| `SOURCE` | **[Campus360](https://github.com/Mouaz7/Campus360)** | Kotlin · Android · Firebase · Google Maps | Hybrid indoor/outdoor navigation, MVVM, Clean Architecture and authenticated state |
+| `SHOWCASE` | **[PongPal](https://github.com/Mouaz7/PongPal-Showcase)** | React · TypeScript · Slack · Firebase · Python | Realtime booking, Slack commands, statistics and Raspberry Pi integration; source remains internal |
+| `SOURCE` | **[Chess Game](https://github.com/Mouaz7/chess-game)** | C++20 · SFML 3.0 · vcpkg | Complete rule engine, timers, history, polymorphism, RAII and state-driven UI |
+| `SOURCE` | **[Concurrency Systems](https://github.com/Mouaz7/Concurrency-Systems)** | C · POSIX · Linux | Processes, pthreads, mutexes, semaphores, shared memory, message queues and paging |
+| `SOURCE` | **[OS Filesystem](https://github.com/Mouaz7/Os_filesystem)** | C++ · FAT · Linux · Make | Virtual block storage, hierarchical directories, path resolution, permissions and shell commands |
 
 <details>
-<summary><b>More repositories</b></summary>
+<summary><code>mouaz@github:~/projects$ find . -maxdepth 1 -type d --more</code></summary>
 
-C++ Transport System — object-oriented design, persistence and validation.
-
-Network UDP/TCP Analysis — throughput, ordering, packet loss and protocol behavior.
-
-ARM UART Factorial — embedded and assembly-level communication.
-
-ASM Buffered I/O — low-level buffered input/output.
+| Repository | Focus |
+| :-- | :-- |
+| **[Cpp-TransportSystem](https://github.com/Mouaz7/Cpp-TransportSystem)** | OOP, scheduling constraints, validation and file persistence |
+| **[network-udp-tcp-analysis](https://github.com/Mouaz7/network-udp-tcp-analysis)** | Throughput, packet loss, ordering and protocol behavior |
+| **[ARM-UART-Factorial](https://github.com/Mouaz7/ARM-UART-Factorial)** | ARM assembly, UART input/output and factorial calculation |
+| **[ARM-Interrupt-UART-Display](https://github.com/Mouaz7/ARM-Interrupt-UART-Display)** | Interrupt-driven embedded communication and display output |
+| **[Asm-Buffered-IO](https://github.com/Mouaz7/Asm-Buffered-IO)** | Low-level buffered input/output |
+| **[team-temp-app](https://github.com/Mouaz7/team-temp-app)** | Visual documentation for an AI-driven employee survey platform |
+| **[All public repositories →](https://github.com/Mouaz7?tab=repositories)** | Full project inventory |
 
 </details>
 
-<a id="technology"></a>
+---
 
-> ./stack --group=responsibility
+<a id="toolchain"></a>
 
-<div align="center">
+## `mouaz@github:~$ cat /etc/mouaz/toolchain.conf`
 
-Languages
+```ini
+[LANGUAGES]
+runtime   = Python, C++, C, Java, TypeScript, JavaScript, Kotlin, Bash
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,kotlin,bash&theme=dark">
-  <img alt="Python, C++, C, Java, JavaScript, TypeScript, Kotlin and Bash" src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,kotlin,bash&theme=light">
-</picture>
+[BACKEND]
+services  = REST APIs, Node.js, Express, authentication, validation, error handling
 
-Product, backend and data
+[DATA]
+storage   = PostgreSQL, MySQL, MariaDB, SQLite, Firebase, local persistence
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,sqlite,firebase&theme=dark">
-  <img alt="React, Next.js, Node.js, Express, PostgreSQL, MySQL, SQLite and Firebase" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,sqlite,firebase&theme=light">
-</picture>
+[SYSTEMS]
+kernel    = Linux, POSIX, processes, pthreads, synchronization, IPC, FAT, networking
 
-Systems and delivery
+[AI]
+pipeline  = LLM integration, agents, orchestration, model fallback, HITL, evaluation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,git,github,cmake,androidstudio,vscode&theme=dark">
-  <img alt="Linux, Docker, Git, GitHub, CMake, Android Studio and VS Code" src="https://skillicons.dev/icons?i=linux,docker,git,github,cmake,androidstudio,vscode&theme=light">
-</picture>
+[MOBILE_AND_UI]
+product   = Android, Kotlin, MVVM, React, responsive interfaces, state-driven UI
 
-</div>
+[DELIVERY]
+tooling   = Git, GitHub, Docker, Jenkins, CI/CD, CMake, static analysis, review gates
+```
 
-Layer
+<details>
+<summary><code>mouaz@github:~$ ./render-tool-icons --optional</code></summary>
 
-Tools and concepts
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,kotlin,bash&theme=dark">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,kotlin,bash&theme=light">
+  </picture>
+</p>
 
-Architecture
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,sqlite,firebase&theme=dark">
+    <img alt="Backend and data tools" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgres,mysql,sqlite,firebase&theme=light">
+  </picture>
+</p>
 
-Clean Architecture, MVVM, modular services, interfaces, design patterns
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,git,github,cmake,androidstudio,vscode&theme=dark">
+    <img alt="Systems and delivery tools" src="https://skillicons.dev/icons?i=linux,docker,git,github,cmake,androidstudio,vscode&theme=light">
+  </picture>
+</p>
 
-Backend
+</details>
 
-REST APIs, authentication, validation, error handling, persistence
+---
 
-Systems
+<a id="education"></a>
 
-pthreads, mutexes, semaphores, shared memory, message queues, FAT
+## `mouaz@github:~$ tree ~/education/software-engineering`
 
-AI
+```text
+Software Engineering @ BTH
+├── foundation
+│   ├── Python, C, C++ and Java
+│   ├── algorithms and data structures
+│   ├── object-oriented design
+│   └── discrete and computational problem solving
+├── systems
+│   ├── operating systems
+│   ├── processes, threads and IPC
+│   ├── computer networks
+│   ├── embedded and assembly programming
+│   └── performance and resource management
+├── software-engineering
+│   ├── requirements engineering
+│   ├── architecture and design patterns
+│   ├── verification, validation and testing
+│   ├── team-based development
+│   └── maintainability and quality
+└── data-security-ai
+    ├── database technology
+    ├── security and cryptography
+    ├── artificial intelligence
+    ├── generative AI integrations
+    └── safe automation and human control
+```
 
-LLM integration, agents, orchestration, model fallback, HITL, evaluation
-
-Delivery
-
-GitHub, Jenkins, Docker, static analysis, CI/CD, review gates
-
-Quality
-
-Testing, observability, security controls, performance measurement
+---
 
 <a id="roadmap"></a>
 
-> ./roadmap --format=next-actions
+## `mouaz@github:~$ ps aux --sort=-priority`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/roadmap-dark.svg">
   <img width="100%" alt="Engineering roadmap organized into now, next and explore" src="./assets/roadmap-light.svg">
 </picture>
 
+```console
+PID   STATE      PROCESS
+101   RUNNING    backend.systems        reliable APIs and modular application services
+202   RUNNING    ai.devtools            controlled agents, repair workflows and evaluation
+303   LEARNING   distributed.systems    service communication, resilience and observability
+404   ACTIVE     security.practice      secure defaults, quality gates and review controls
+505   ACTIVE     performance.lab        concurrency, networking and measurable behavior
+606   READY      open.source            useful collaboration and production-quality shipping
+```
+
 <details>
-<summary><b>GitHub activity cards</b></summary>
+<summary><code>mouaz@github:~$ git stats --details</code></summary>
 
 <p align="center">
   <picture>
@@ -269,17 +263,25 @@ Testing, observability, security controls, performance measurement
 
 </details>
 
+---
+
 <a id="contact"></a>
 
-> ./connect --with=mouaz
+## `mouaz@github:~$ ./connect --protocol=https`
 
-I am interested in backend engineering, system design, AI-assisted development, secure automation, performance and open-source collaboration.
+```console
+TARGETS   backend engineering · system design · AI-assisted development
+INTERESTS secure automation · performance · open source · reliable architecture
+STATUS    available for technical conversations and engineering collaboration
+```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouaz-naji-9307531b6/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect%20on%20LinkedIn-D9B963?style=for-the-badge&logo=linkedin&logoColor=06100E"></a>
   <a href="https://github.com/Mouaz7?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore%20repositories-38D6AE?style=for-the-badge&logo=github&logoColor=06100E"></a>
 </p>
 
-mouaz@bth:~$ build carefully · verify honestly · improve continuously
+```console
+mouaz@github:~$ echo "Build carefully. Verify honestly. Improve continuously."
+```
 
-<p align="right"><a href="#top">Back to top ↑</a></p>
+<p align="right"><a href="#top"><code>back-to-top ↑</code></a></p>
