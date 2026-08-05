@@ -1,113 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="650" viewBox="0 0 1180 650" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
 <title id="title">Selected engineering projects</title>
-<desc id="desc">Six featured software engineering projects in a unified gold visual theme.</desc>
+<desc id="desc">Four selected projects showing stack, responsibility and concrete engineering evidence.</desc>
 <defs>
 <style>
-text{font-family:Inter,Segoe UI,Arial,sans-serif}
-.eyebrow{font-size:13px;font-weight:800;letter-spacing:2.6px}
-.head{font-size:35px;font-weight:850}
-.sub{font-size:15px}
-.num{font-family:SFMono-Regular,Consolas,monospace;font-size:10px;font-weight:800;letter-spacing:1px}
-.icon{font-family:SFMono-Regular,Consolas,monospace;font-size:11px;font-weight:900}
-.title{font-family:SFMono-Regular,Consolas,monospace;font-size:13px;font-weight:900}
-.stack{font-family:SFMono-Regular,Consolas,monospace;font-size:11.5px;font-weight:800}
-.desc{font-family:SFMono-Regular,Consolas,monospace;font-size:10.5px}
-.link{font-family:SFMono-Regular,Consolas,monospace;font-size:9px;font-weight:900;letter-spacing:.45px}
-</style>
-<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3D98C"/><stop offset=".5" stop-color="#E6C87A"/><stop offset="1" stop-color="#B98212"/></linearGradient>
-<radialGradient id="glow" cx="80%" cy="10%" r="80%"><stop stop-color="#E6C87A" stop-opacity=".16"/><stop offset="1" stop-color="#FFF9EB" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#E6C87A" opacity=".14"/></pattern>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.eyebrow{font-size:12px;font-weight:800;letter-spacing:2px}.head{font-size:31px;font-weight:900}.sub{font-size:14px}.id{font-size:11px;font-weight:900;letter-spacing:1.5px}.name{font-size:17px;font-weight:900}.label{font-size:10px;font-weight:900;letter-spacing:1.2px}.body{font-size:12.5px}.proof{font-size:12px;font-weight:800}</style>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#137F68"/><stop offset=".55" stop-color="#247D8A"/><stop offset="1" stop-color="#946D1D"/></linearGradient>
+<radialGradient id="glow" cx="82%" cy="5%" r="85%"><stop stop-color="#137F68" stop-opacity=".13"/><stop offset="1" stop-color="#F5F2EA" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#B8D4C9" stroke-width=".6" opacity=".22"/></pattern>
 </defs>
-<rect width="1180" height="650" rx="26" fill="#FFF9EB"/>
-<rect width="1180" height="650" rx="26" fill="url(#glow)"/>
-<rect width="1180" height="650" rx="26" fill="url(#dots)"/>
-<rect x="3" y="3" width="1174" height="644" rx="23" fill="none" stroke="url(#gold)" stroke-width="2"/>
-<text x="40" y="48" class="eyebrow" fill="#B98212">✦ FEATURED WORK / ENGINEERING EVIDENCE</text>
-<text x="40" y="94" class="head" fill="#17140E">Selected work across the stack.</text>
-<text x="40" y="122" class="sub" fill="#74684A">Architecture, systems thinking, implementation depth and verifiable behavior.</text>
-<g transform="translate(38,150)">
-  <rect width="330" height="205" rx="18" fill="#FFFFFF" stroke="#E6D6A6"/>
-  <rect width="6" height="205" rx="3" fill="#B98212"/>
-  <circle cx="41" cy="42" r="22" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="41" y="47" text-anchor="middle" class="icon" fill="#B98212">AI</text>
-  <text x="78" y="35" class="num" fill="#B98212">01</text>
-  <text x="78" y="57" class="title" fill="#17140E">AUTO-HEALING AI DEVOPS</text>
-  <line x1="24" y1="76" x2="306" y2="76" stroke="#E6D6A6"/>
-  <text x="24" y="111" class="stack" fill="#B98212">Python · Agents · CI/CD</text>
-  <text x="24" y="142" class="desc" fill="#74684A">Repair workflows · HITL · security gates</text>
-  <rect x="24" y="162" width="116" height="27" rx="8" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="40" y="180" class="link" fill="#17140E">VIEW PROJECT</text>
-  <circle cx="290" cy="175" r="14" fill="none" stroke="#B98212"/>
-  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#B98212" stroke-width="1.7"/>
-</g><g transform="translate(406,150)">
-  <rect width="330" height="205" rx="18" fill="#FFFFFF" stroke="#E6D6A6"/>
-  <rect width="6" height="205" rx="3" fill="#B98212"/>
-  <circle cx="41" cy="42" r="22" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="41" y="47" text-anchor="middle" class="icon" fill="#B98212">360</text>
-  <text x="78" y="35" class="num" fill="#B98212">02</text>
-  <text x="78" y="57" class="title" fill="#17140E">CAMPUS360</text>
-  <line x1="24" y1="76" x2="306" y2="76" stroke="#E6D6A6"/>
-  <text x="24" y="111" class="stack" fill="#B98212">Kotlin · Android · Firebase</text>
-  <text x="24" y="142" class="desc" fill="#74684A">Navigation · MVVM · authentication · cloud state</text>
-  <rect x="24" y="162" width="116" height="27" rx="8" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="40" y="180" class="link" fill="#17140E">VIEW PROJECT</text>
-  <circle cx="290" cy="175" r="14" fill="none" stroke="#B98212"/>
-  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#B98212" stroke-width="1.7"/>
-</g><g transform="translate(774,150)">
-  <rect width="330" height="205" rx="18" fill="#FFFFFF" stroke="#E6D6A6"/>
-  <rect width="6" height="205" rx="3" fill="#B98212"/>
-  <circle cx="41" cy="42" r="22" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="41" y="47" text-anchor="middle" class="icon" fill="#B98212">PP</text>
-  <text x="78" y="35" class="num" fill="#B98212">03</text>
-  <text x="78" y="57" class="title" fill="#17140E">PONGPAL</text>
-  <line x1="24" y1="76" x2="306" y2="76" stroke="#E6D6A6"/>
-  <text x="24" y="111" class="stack" fill="#B98212">React · Slack · Firebase · IoT</text>
-  <text x="24" y="142" class="desc" fill="#74684A">Realtime booking · commands · device integration</text>
-  <rect x="24" y="162" width="116" height="27" rx="8" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="40" y="180" class="link" fill="#17140E">VIEW PROJECT</text>
-  <circle cx="290" cy="175" r="14" fill="none" stroke="#B98212"/>
-  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#B98212" stroke-width="1.7"/>
-</g><g transform="translate(38,398)">
-  <rect width="330" height="205" rx="18" fill="#FFFFFF" stroke="#E6D6A6"/>
-  <rect width="6" height="205" rx="3" fill="#B98212"/>
-  <circle cx="41" cy="42" r="22" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="41" y="47" text-anchor="middle" class="icon" fill="#B98212">C++</text>
-  <text x="78" y="35" class="num" fill="#B98212">04</text>
-  <text x="78" y="57" class="title" fill="#17140E">CHESS GAME</text>
-  <line x1="24" y1="76" x2="306" y2="76" stroke="#E6D6A6"/>
-  <text x="24" y="111" class="stack" fill="#B98212">C++20 · SFML 3.0</text>
-  <text x="24" y="142" class="desc" fill="#74684A">Rule engine · timers · history · modern OOP</text>
-  <rect x="24" y="162" width="116" height="27" rx="8" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="40" y="180" class="link" fill="#17140E">VIEW PROJECT</text>
-  <circle cx="290" cy="175" r="14" fill="none" stroke="#B98212"/>
-  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#B98212" stroke-width="1.7"/>
-</g><g transform="translate(406,398)">
-  <rect width="330" height="205" rx="18" fill="#FFFFFF" stroke="#E6D6A6"/>
-  <rect width="6" height="205" rx="3" fill="#B98212"/>
-  <circle cx="41" cy="42" r="22" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="41" y="47" text-anchor="middle" class="icon" fill="#B98212">PX</text>
-  <text x="78" y="35" class="num" fill="#B98212">05</text>
-  <text x="78" y="57" class="title" fill="#17140E">CONCURRENCY SYSTEMS</text>
-  <line x1="24" y1="76" x2="306" y2="76" stroke="#E6D6A6"/>
-  <text x="24" y="111" class="stack" fill="#B98212">C · POSIX · Linux</text>
-  <text x="24" y="142" class="desc" fill="#74684A">Threads · mutexes · IPC · paging behavior</text>
-  <rect x="24" y="162" width="116" height="27" rx="8" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="40" y="180" class="link" fill="#17140E">VIEW PROJECT</text>
-  <circle cx="290" cy="175" r="14" fill="none" stroke="#B98212"/>
-  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#B98212" stroke-width="1.7"/>
-</g><g transform="translate(774,398)">
-  <rect width="330" height="205" rx="18" fill="#FFFFFF" stroke="#E6D6A6"/>
-  <rect width="6" height="205" rx="3" fill="#B98212"/>
-  <circle cx="41" cy="42" r="22" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="41" y="47" text-anchor="middle" class="icon" fill="#B98212">FS</text>
-  <text x="78" y="35" class="num" fill="#B98212">06</text>
-  <text x="78" y="57" class="title" fill="#17140E">OS FILESYSTEM</text>
-  <line x1="24" y1="76" x2="306" y2="76" stroke="#E6D6A6"/>
-  <text x="24" y="111" class="stack" fill="#B98212">C++ · FAT · Linux</text>
-  <text x="24" y="142" class="desc" fill="#74684A">Virtual disk · directories · paths · permissions</text>
-  <rect x="24" y="162" width="116" height="27" rx="8" fill="#FFF4D6" stroke="#E6C87A"/>
-  <text x="40" y="180" class="link" fill="#17140E">VIEW PROJECT</text>
-  <circle cx="290" cy="175" r="14" fill="none" stroke="#B98212"/>
-  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#B98212" stroke-width="1.7"/>
+<rect width="1200" height="560" rx="26" fill="#F5F2EA"/>
+<rect width="1200" height="560" rx="26" fill="url(#glow)"/>
+<rect width="1200" height="560" rx="26" fill="url(#grid)"/>
+<rect x="4" y="4" width="1192" height="552" rx="23" fill="none" stroke="url(#border)" stroke-width="2"/>
+<text x="42" y="47" class="eyebrow" fill="#137F68">PROJECT INDEX / SELECTED ENGINEERING EVIDENCE</text>
+<text x="42" y="88" class="head" fill="#10231C">Work that demonstrates architecture, systems and delivery.</text>
+<text x="42" y="116" class="sub" fill="#5D776D">Each card states the stack, the engineering responsibility and the evidence.</text>
+
+<g transform="translate(42 145)">
+<rect width="535" height="170" rx="18" fill="#FFFFFF" stroke="#B8D4C9"/>
+<rect width="6" height="170" rx="3" fill="#137F68"/>
+<text x="25" y="31" class="id" fill="#137F68">01 / AI DEVOPS</text>
+<text x="25" y="58" class="name" fill="#10231C">AUTO-HEALING AI DEVOPS</text>
+<text x="25" y="84" class="body" fill="#5D776D">Python · MCP · CI/CD · Prometheus</text>
+<line x1="25" y1="99" x2="510" y2="99" stroke="#D5E2DD"/>
+<text x="25" y="121" class="label" fill="#946D1D">RESPONSIBILITY</text>
+<text x="146" y="121" class="body" fill="#10231C">agent architecture · orchestration · safety controls</text>
+<text x="25" y="148" class="label" fill="#946D1D">EVIDENCE</text>
+<text x="111" y="148" class="proof" fill="#10231C">667 tests · HITL enforced · security gates</text>
+</g>
+
+<g transform="translate(623 145)">
+<rect width="535" height="170" rx="18" fill="#FFFFFF" stroke="#B8D4C9"/>
+<rect width="6" height="170" rx="3" fill="#946D1D"/>
+<text x="25" y="31" class="id" fill="#946D1D">02 / MOBILE PRODUCT</text>
+<text x="25" y="58" class="name" fill="#10231C">CAMPUS360</text>
+<text x="25" y="84" class="body" fill="#5D776D">Kotlin · Android · Firebase</text>
+<line x1="25" y1="99" x2="510" y2="99" stroke="#D5E2DD"/>
+<text x="25" y="121" class="label" fill="#137F68">RESPONSIBILITY</text>
+<text x="146" y="121" class="body" fill="#10231C">application structure · auth · navigation · cloud state</text>
+<text x="25" y="148" class="label" fill="#137F68">EVIDENCE</text>
+<text x="111" y="148" class="proof" fill="#10231C">structured architecture · reliable user flows</text>
+</g>
+
+<g transform="translate(42 340)">
+<rect width="535" height="170" rx="18" fill="#FFFFFF" stroke="#B8D4C9"/>
+<rect width="6" height="170" rx="3" fill="#247D8A"/>
+<text x="25" y="31" class="id" fill="#247D8A">03 / SYSTEMS</text>
+<text x="25" y="58" class="name" fill="#10231C">CONCURRENCY SYSTEMS</text>
+<text x="25" y="84" class="body" fill="#5D776D">C · POSIX · Linux</text>
+<line x1="25" y1="99" x2="510" y2="99" stroke="#D5E2DD"/>
+<text x="25" y="121" class="label" fill="#946D1D">RESPONSIBILITY</text>
+<text x="146" y="121" class="body" fill="#10231C">processes · threads · IPC · synchronization</text>
+<text x="25" y="148" class="label" fill="#946D1D">EVIDENCE</text>
+<text x="111" y="148" class="proof" fill="#10231C">mutexes · semaphores · paging behavior</text>
+</g>
+
+<g transform="translate(623 340)">
+<rect width="535" height="170" rx="18" fill="#FFFFFF" stroke="#B8D4C9"/>
+<rect width="6" height="170" rx="3" fill="#137F68"/>
+<text x="25" y="31" class="id" fill="#137F68">04 / C++ PRODUCT</text>
+<text x="25" y="58" class="name" fill="#10231C">CHESS GAME</text>
+<text x="25" y="84" class="body" fill="#5D776D">C++20 · SFML 3.0</text>
+<line x1="25" y1="99" x2="510" y2="99" stroke="#D5E2DD"/>
+<text x="25" y="121" class="label" fill="#946D1D">RESPONSIBILITY</text>
+<text x="146" y="121" class="body" fill="#10231C">rule engine · timers · history · interface behavior</text>
+<text x="25" y="148" class="label" fill="#946D1D">EVIDENCE</text>
+<text x="111" y="148" class="proof" fill="#10231C">modern OOP · state handling · complete game rules</text>
 </g>
 </svg>
