@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="390" viewBox="0 0 1180 390" role="img" aria-labelledby="title desc">
+<title id="title">Engineering operating model</title>
+<desc id="desc">Four engineering capabilities: backend systems, systems engineering, AI engineering and delivery quality.</desc>
+<defs><style>
+text{font-family:Inter,Segoe UI,Arial,sans-serif}
+.eyebrow{font-size:13px;font-weight:700;letter-spacing:2.5px}
+.head{font-size:34px;font-weight:800}
+.sub{font-size:15px}
+.cardTitle{font-family:SFMono-Regular,Consolas,monospace;font-size:12px;font-weight:800}
+.cardDesc{font-family:SFMono-Regular,Consolas,monospace;font-size:10.4px}
+.metric{font-family:SFMono-Regular,Consolas,monospace;font-size:10px;font-weight:700;letter-spacing:.5px}
+</style>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E6C87A"/><stop offset=".55" stop-color="#42D2AE"/><stop offset="1" stop-color="#63C9D6"/></linearGradient></defs>
+<rect width="1180" height="390" rx="26" fill="#080D0C"/>
+<rect x="3" y="3" width="1174" height="384" rx="23" fill="none" stroke="url(#top)" stroke-width="2"/>
+<text x="40" y="48" class="eyebrow" fill="#E6C87A">ENGINEERING SYSTEM / HOW I WORK</text>
+<text x="40" y="94" class="head" fill="#F3F7F5">From architecture decisions to reliable delivery.</text>
+<text x="40" y="122" class="sub" fill="#91A49C">A practical operating model built around explicit boundaries, failure handling, verification and measurable behavior.</text>
+<g transform="translate(38,155)"><rect width="250" height="175" rx="18" fill="#0E1714" stroke="#25483D"/><circle cx="28" cy="29" r="6" fill="#42D2AE"/><text x="46" y="34" class="cardTitle" fill="#F3F7F5">BACKEND SYSTEMS</text><text x="25" y="71" class="cardDesc" fill="#91A49C">APIs · auth · validation · persistence</text><line x1="25" y1="96" x2="225" y2="96" stroke="#25483D"/><text x="25" y="125" class="metric" fill="#42D2AE">DESIGN / BUILD</text><text x="25" y="150" class="metric" fill="#91A49C">TEST / OBSERVE / IMPROVE</text></g>
+<g transform="translate(316,155)"><rect width="250" height="175" rx="18" fill="#0E1714" stroke="#25483D"/><circle cx="28" cy="29" r="6" fill="#63C9D6"/><text x="46" y="34" class="cardTitle" fill="#F3F7F5">SYSTEMS ENGINEERING</text><text x="25" y="71" class="cardDesc" fill="#91A49C">Linux · threads · IPC · filesystems</text><line x1="25" y1="96" x2="225" y2="96" stroke="#25483D"/><text x="25" y="125" class="metric" fill="#63C9D6">DESIGN / BUILD</text><text x="25" y="150" class="metric" fill="#91A49C">TEST / OBSERVE / IMPROVE</text></g>
+<g transform="translate(594,155)"><rect width="250" height="175" rx="18" fill="#0E1714" stroke="#25483D"/><circle cx="28" cy="29" r="6" fill="#E6C87A"/><text x="46" y="34" class="cardTitle" fill="#F3F7F5">AI ENGINEERING</text><text x="25" y="71" class="cardDesc" fill="#91A49C">agents · evaluation · safe automation</text><line x1="25" y1="96" x2="225" y2="96" stroke="#25483D"/><text x="25" y="125" class="metric" fill="#E6C87A">DESIGN / BUILD</text><text x="25" y="150" class="metric" fill="#91A49C">TEST / OBSERVE / IMPROVE</text></g>
+<g transform="translate(872,155)"><rect width="250" height="175" rx="18" fill="#0E1714" stroke="#25483D"/><circle cx="28" cy="29" r="6" fill="#42D2AE"/><text x="46" y="34" class="cardTitle" fill="#F3F7F5">DELIVERY &amp; QUALITY</text><text x="25" y="71" class="cardDesc" fill="#91A49C">testing · security · CI/CD · review</text><line x1="25" y1="96" x2="225" y2="96" stroke="#25483D"/><text x="25" y="125" class="metric" fill="#42D2AE">DESIGN / BUILD</text><text x="25" y="150" class="metric" fill="#91A49C">TEST / OBSERVE / IMPROVE</text></g>
+</svg>
