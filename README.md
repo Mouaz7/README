@@ -36,17 +36,17 @@
 
 ## `[01]` ✦ `mouaz@github:~$ ./about --signal=high`
 
-I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of Technology**. I design and build software across **backend systems, architecture, systems programming, mobile development and AI-assisted engineering workflows**.
+👨‍💻 I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of Technology**. I design and build software across **backend systems, architecture, systems programming, mobile development and AI-assisted engineering workflows**.
 
 ```text
-CORE         Backend systems · software architecture · generative AI
-SYSTEMS      Linux · processes · threads · IPC · filesystems · networking
-LANGUAGES    Python · C++ · C · Java · TypeScript · JavaScript · Kotlin
-STANDARD     Reliability · security · maintainability · measured performance
+🎯 FOCUS       Backend systems · software architecture · generative AI
+⚙️ SYSTEMS     Linux · processes · threads · IPC · filesystems · networking
+💻 LANGUAGES   Python · C++ · C · Java · TypeScript · JavaScript · Kotlin
+🛡️ STANDARD    Reliability · security · maintainability · measured performance
+🚀 BUILDING    Dependable products · safe automation · verifiable behavior
 ```
 
-> [!NOTE]
-> **Evidence over labels:** clear architecture, tested behavior, reliable systems and measurable results.
+> 🧭 **Engineering principle —** Evidence over labels: clear architecture, tested behavior, reliable systems and measurable results.
 
 ---
 
