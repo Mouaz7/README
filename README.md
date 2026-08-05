@@ -14,60 +14,63 @@
   <img src="https://img.shields.io/badge/LOCATION-SWEDEN-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Location Sweden">
 </div>
 
+<br>
+
 <p align="center">
-  <a href="#about"><b>✨ About</b></a>
+  <a href="#about"><b>[01] ✦ About</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#engineering"><b>🧠 Engineering</b></a>
+  <a href="#engineering"><b>[02] ⚙ Engineering</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#projects"><b>🚀 Projects</b></a>
+  <a href="#projects"><b>[03] 🚀 Projects</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#technology"><b>🛠️ Technology</b></a>
+  <a href="#skills"><b>[04] 🧠 Skills</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#activity"><b>📈 Activity</b></a>
+  <a href="#activity"><b>[05] 📈 Activity</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#contact"><b>🤝 Contact</b></a>
+  <a href="#contact"><b>[06] 🤝 Connect</b></a>
 </p>
 
 ---
 
 <a id="about"></a>
 
-## ✨ `mouaz@github:~$ ./about --signal=high`
+## `[01]` ✦ `mouaz@github:~$ ./about --signal=high`
 
-I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of Technology**. I build software across **backend systems, architecture, systems programming, mobile development and AI-assisted engineering workflows**.
+I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of Technology**. I design and build software across **backend systems, architecture, systems programming, mobile development and AI-assisted engineering workflows**.
 
 ```text
-🧩 PRIMARY     Backend systems · architecture · generative AI
-⚙️ SYSTEMS     Linux · processes · threads · IPC · filesystems · networking
-💻 LANGUAGES   Python · C++ · C · Java · TypeScript · JavaScript · Kotlin
-🛡️ PRINCIPLES  Reliability · security · maintainability · measured performance
+CORE         Backend systems · software architecture · generative AI
+SYSTEMS      Linux · processes · threads · IPC · filesystems · networking
+LANGUAGES    Python · C++ · C · Java · TypeScript · JavaScript · Kotlin
+STANDARD     Reliability · security · maintainability · measured performance
 ```
 
-> 💡 Evidence over labels: clear architecture, tested behavior, reliable systems and measurable results.
+> [!NOTE]
+> **Evidence over labels:** clear architecture, tested behavior, reliable systems and measurable results.
 
 ---
 
 <a id="engineering"></a>
 
-## 🧠 `mouaz@github:~$ ./engineering --overview`
+## `[02]` ⚙ `mouaz@github:~$ ./engineering --overview`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering-dark.svg">
   <img width="100%" src="./assets/engineering-light.svg" alt="Mouaz Naji engineering system">
 </picture>
 
-| Area | Engineering approach |
+| Signal | Engineering approach |
 | :-- | :-- |
-| 🏗️ **Architecture** | Separate responsibilities, keep dependencies explicit and design around behavior |
-| 🛡️ **Reliability** | Validate state, handle failures intentionally and make important workflows observable |
-| 🔐 **Security** | Protect credentials, use least privilege and review high-impact automation |
-| ✅ **Quality** | Test normal and failure paths, measure before optimizing and keep changes reviewable |
+| `[ARCH]` **Architecture** | Separate responsibilities, keep dependencies explicit and design around observable behavior |
+| `[REL]` **Reliability** | Validate state, handle failures intentionally and make critical workflows observable |
+| `[SEC]` **Security** | Protect credentials, apply least privilege and review high-impact automation |
+| `[QA]` **Quality** | Test success and failure paths, measure before optimizing and keep changes reviewable |
 
 ---
 
 <a id="projects"></a>
 
-## 🚀 `mouaz@github:~$ ./projects --featured`
+## `[03]` 🚀 `mouaz@github:~$ ./projects --featured`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
@@ -80,14 +83,14 @@ I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of T
   <a href="https://github.com/Mouaz7/Concurrency-Systems"><img src="https://img.shields.io/badge/CONCURRENCY-E6C87A?style=for-the-badge&amp;logo=linux&amp;logoColor=0D1117" alt="Concurrency Systems"></a>
 </p>
 
-| Project | Engineering evidence |
-| :-- | :-- |
-| 🤖 **[Auto-Healing AI DevOps](https://github.com/Mouaz7/auto-healing-devops-platform)** | Multi-agent repair workflows, CI/CD controls, approval gates and secure automation |
-| 📱 **[Campus360](https://github.com/Mouaz7/Campus360)** | Kotlin, Android, Firebase, authentication, navigation and structured architecture |
-| 🏓 **[PongPal](https://github.com/Mouaz7/PongPal-Showcase)** | React, Slack, Firebase and IoT-backed realtime workflows |
-| ♟️ **[Chess Game](https://github.com/Mouaz7/chess-game)** | C++20, SFML, rule handling, timers, history and object-oriented design |
-| ⚙️ **[Concurrency Systems](https://github.com/Mouaz7/Concurrency-Systems)** | Processes, POSIX threads, mutexes, semaphores, IPC and paging |
-| 💾 **[OS Filesystem](https://github.com/Mouaz7/Os_filesystem)** | FAT-style storage, directories, paths, permissions and shell commands |
+| ID | Project | Engineering evidence |
+| :-- | :-- | :-- |
+| `01` | **[Auto-Healing AI DevOps](https://github.com/Mouaz7/auto-healing-devops-platform)** | Multi-agent repair workflows, CI/CD controls, approval gates and secure automation |
+| `02` | **[Campus360](https://github.com/Mouaz7/Campus360)** | Kotlin, Android, Firebase, authentication, navigation and structured architecture |
+| `03` | **[PongPal](https://github.com/Mouaz7/PongPal-Showcase)** | React, Slack, Firebase and IoT-backed realtime workflows |
+| `04` | **[Chess Game](https://github.com/Mouaz7/chess-game)** | C++20, SFML, rule handling, timers, history and object-oriented design |
+| `05` | **[Concurrency Systems](https://github.com/Mouaz7/Concurrency-Systems)** | Processes, POSIX threads, mutexes, semaphores, IPC and paging |
+| `06` | **[OS Filesystem](https://github.com/Mouaz7/Os_filesystem)** | FAT-style storage, directories, paths, permissions and shell commands |
 
 <p align="center">
   <a href="https://github.com/Mouaz7?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=E6C87A" alt="View all repositories"></a>
@@ -95,31 +98,49 @@ I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of T
 
 ---
 
-<a id="technology"></a>
+<a id="skills"></a>
 
-## 🛠️ `mouaz@github:~$ ./stack --inspect`
+## `[04]` 🧠 `mouaz@github:~$ ./stack --inspect --skills`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img width="100%" src="./assets/stack-light.svg" alt="Mouaz Naji technology stack">
+  <img width="100%" src="./assets/stack-light.svg" alt="Mouaz Naji technology stack and engineering skills">
 </picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-E6C87A?style=for-the-badge&amp;logo=python&amp;logoColor=0D1117" alt="Python">
-  <img src="https://img.shields.io/badge/C++-E6C87A?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=0D1117" alt="C++">
-  <img src="https://img.shields.io/badge/Java-E6C87A?style=for-the-badge&amp;logo=openjdk&amp;logoColor=0D1117" alt="Java">
-  <img src="https://img.shields.io/badge/TypeScript-E6C87A?style=for-the-badge&amp;logo=typescript&amp;logoColor=0D1117" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Kotlin-E6C87A?style=for-the-badge&amp;logo=kotlin&amp;logoColor=0D1117" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Linux-E6C87A?style=for-the-badge&amp;logo=linux&amp;logoColor=0D1117" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-E6C87A?style=for-the-badge&amp;logo=docker&amp;logoColor=0D1117" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-E6C87A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=0D1117" alt="PostgreSQL">
-</p>
+| Domain | Skills and tools |
+| :-- | :-- |
+| 💻 **Languages** | Python · C++ · C · Java · TypeScript · JavaScript · Kotlin · Bash |
+| 🧱 **Backend & Data** | REST APIs · authentication · validation · PostgreSQL · Firebase · data modelling |
+| ⚙️ **Systems** | Linux · POSIX · processes · threads · synchronization · IPC · filesystems · networking |
+| 🤖 **AI Engineering** | LLM workflows · agents · orchestration · evaluation · human approval · safe automation |
+| 🛡️ **Delivery & Quality** | Git · GitHub · Docker · CI/CD · CMake · testing · security review · observability |
+| 📱 **Product Development** | Android · React · Next.js · realtime workflows · structured application architecture |
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-E6C87A?style=for-the-badge&amp;logo=python&amp;logoColor=0D1117" alt="Python">
+<img src="https://img.shields.io/badge/C++-E6C87A?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=0D1117" alt="C++">
+<img src="https://img.shields.io/badge/C-E6C87A?style=for-the-badge&amp;logo=c&amp;logoColor=0D1117" alt="C">
+<img src="https://img.shields.io/badge/Java-E6C87A?style=for-the-badge&amp;logo=openjdk&amp;logoColor=0D1117" alt="Java">
+<img src="https://img.shields.io/badge/TypeScript-E6C87A?style=for-the-badge&amp;logo=typescript&amp;logoColor=0D1117" alt="TypeScript">
+<img src="https://img.shields.io/badge/Kotlin-E6C87A?style=for-the-badge&amp;logo=kotlin&amp;logoColor=0D1117" alt="Kotlin">
+
+<br>
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=E6C87A" alt="Linux">
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=E6C87A" alt="Docker">
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=E6C87A" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&amp;logo=firebase&amp;logoColor=E6C87A" alt="Firebase">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&amp;logo=react&amp;logoColor=E6C87A" alt="React">
+<img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&amp;logo=android&amp;logoColor=E6C87A" alt="Android">
+
+</div>
 
 ---
 
 <a id="activity"></a>
 
-## 📈 `mouaz@github:~$ ./activity --status`
+## `[05]` 📈 `mouaz@github:~$ ./activity --status`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
@@ -136,7 +157,7 @@ I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of T
 
 <a id="contact"></a>
 
-## 🤝 `mouaz@github:~$ ./connect --open`
+## `[06]` 🤝 `mouaz@github:~$ ./connect --open`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg">
@@ -149,6 +170,8 @@ I am **Mouaz Naji**, a Software Engineering student at **Blekinge Institute of T
   <a href="https://www.bth.se/utbildning/program/software-engineering-180-hp"><img src="https://img.shields.io/badge/BTH-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Blekinge Institute of Technology"></a>
 </p>
 
-<p align="center"><b>✨ Build carefully · verify honestly · improve continuously ✨</b></p>
+<p align="center"><b>✦ Build carefully · verify honestly · improve continuously ✦</b></p>
 
-<p align="center"><a href="#top"><img src="https://img.shields.io/badge/BACK%20TO%20TOP-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=E6C87A" alt="Back to top"></a></p>
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/BACK%20TO%20TOP-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=E6C87A" alt="Back to top"></a>
+</p>
