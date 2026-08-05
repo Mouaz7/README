@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+<title id="t">Technology stack</title><desc id="d">Languages, platforms and delivery capabilities presented through recognizable standalone technology marks.</desc>
+<defs>
+<style>
+:root{--bg:#F8F5EB;--top:#FFFDF6;--card:#FFFDF7;--border:#D8C693;--gold:#A7771C;--text:#172117;--muted:#7D7461;--soft:#E9DDBB}
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.h{font-size:28px;font-weight:800}.s{font-size:14px}.k{font-size:18px;font-weight:800;letter-spacing:.4px}.f{font-size:13px}.word{font-family:Arial,sans-serif;font-weight:800}.line{fill:none;stroke-linecap:round;stroke-linejoin:round}
+@media(prefers-color-scheme:dark){:root{--bg:#0C0E0B;--top:#121612;--card:#111612;--border:#51441D;--gold:#E6C87A;--text:#F8F3E3;--muted:#A7A18E;--soft:#51441D}}
+</style>
+<linearGradient id="kotlin" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#7F52FF"/><stop offset=".5" stop-color="#E44857"/><stop offset="1" stop-color="#FF8A00"/></linearGradient>
+</defs>
+<rect x="8" y="8" width="1184" height="504" rx="24" fill="var(--bg)" stroke="var(--gold)" stroke-width="2"/>
+<rect x="24" y="24" width="1152" height="52" rx="17" fill="var(--top)" stroke="var(--border)"/>
+<circle cx="48" cy="50" r="6" fill="#E38F7D"/><circle cx="68" cy="50" r="6" fill="#D9B45E"/><circle cx="88" cy="50" r="6" fill="#7DAA81"/>
+<text x="600" y="55" text-anchor="middle" fill="var(--muted)" class="s">mouaz@github:~$ ./stack --inspect --mode=logos</text>
+<text x="56" y="124" fill="var(--text)" class="h">&gt; stack.map --scope=engineering</text>
+<text x="56" y="151" fill="var(--muted)" class="s">Languages, platforms and delivery capabilities used across backend, systems, web, mobile and AI work.</text>
+
+<!-- LANGUAGES -->
+<g transform="translate(56 180)">
+<rect width="340" height="270" rx="18" fill="var(--card)" stroke="var(--border)"/>
+<text x="24" y="36" fill="var(--gold)" class="k">LANGUAGES</text>
+<!-- Python -->
+<g transform="translate(44 64)"><path d="M9 2h14c7 0 9 4 9 10v7H16c-7 0-11 4-11 11v3H0V15C0 7 4 2 9 2Z" fill="#3776AB"/><circle cx="24" cy="9" r="2" fill="#fff"/><path d="M23 48H9c-7 0-9-4-9-10v-7h16c7 0 11-4 11-11v-3h5v18c0 8-4 13-9 13Z" fill="#FFD43B"/><circle cx="8" cy="41" r="2" fill="#fff"/></g>
+<!-- C++ -->
+<g transform="translate(126 66)"><path d="M25 0 47 12v25L25 50 3 37V12Z" fill="#00599C"/><text x="25" y="31" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="22" font-weight="800">C++</text></g>
+<!-- C -->
+<g transform="translate(210 66)"><path d="M25 0 47 12v25L25 50 3 37V12Z" fill="#283593"/><text x="25" y="34" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="31" font-weight="800">C</text></g>
+<!-- Java -->
+<g transform="translate(286 61)"><path d="M24 0c7 8-8 9 0 18M17 7c6 6-7 8 0 14" class="line" stroke="#E76F00" stroke-width="3"/><path d="M9 25h28c-1 17-27 17-28 0Zm2 17h24" class="line" stroke="#5382A1" stroke-width="3"/><text x="23" y="55" text-anchor="middle" fill="#5382A1" font-family="Arial,sans-serif" font-size="13" font-weight="700">Java</text></g>
+<!-- TypeScript -->
+<g transform="translate(48 143)"><rect width="50" height="50" rx="3" fill="#3178C6"/><text x="25" y="36" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="800">TS</text></g>
+<!-- JavaScript -->
+<g transform="translate(132 143)"><rect width="50" height="50" rx="3" fill="#F7DF1E"/><text x="25" y="36" text-anchor="middle" fill="#111" font-family="Arial,sans-serif" font-size="25" font-weight="800">JS</text></g>
+<!-- Kotlin -->
+<g transform="translate(216 143)"><path d="M0 0h50L25 25l25 25H0Z" fill="url(#kotlin)"/></g>
+<!-- Bash -->
+<g transform="translate(288 143)"><rect width="50" height="50" rx="7" fill="#242424"/><path d="m11 15 10 10-10 10M25 35h14" class="line" stroke="#fff" stroke-width="4"/></g>
+<line x1="24" y1="218" x2="316" y2="218" stroke="var(--border)"/>
+<text x="24" y="249" fill="var(--muted)" class="f">backend · systems · mobile</text>
+</g>
+
+<!-- PLATFORMS -->
+<g transform="translate(430 180)">
+<rect width="340" height="270" rx="18" fill="var(--card)" stroke="var(--border)"/>
+<text x="24" y="36" fill="var(--gold)" class="k">PLATFORMS</text>
+<!-- Linux -->
+<g transform="translate(48 62)"><ellipse cx="24" cy="27" rx="17" ry="22" fill="#111"/><ellipse cx="24" cy="31" rx="12" ry="16" fill="#F2F2F2"/><circle cx="18" cy="14" r="3" fill="#fff"/><circle cx="30" cy="14" r="3" fill="#fff"/><circle cx="18" cy="14" r="1.3"/><circle cx="30" cy="14" r="1.3"/><path d="m19 19 5-4 5 4-5 4Z" fill="#F4C430"/><path d="M9 45 1 51M39 45l8 6" class="line" stroke="#F4C430" stroke-width="5"/></g>
+<!-- POSIX -->
+<text x="171" y="97" text-anchor="middle" fill="var(--text)" font-size="22" class="word">POSIX</text>
+<!-- Networking -->
+<g transform="translate(276 68)" stroke="#30414D" stroke-width="3" class="line"><circle cx="5" cy="24" r="5"/><circle cx="42" cy="5" r="5"/><circle cx="42" cy="43" r="5"/><path d="m10 21 27-13M10 27l27 13"/></g>
+<!-- Android -->
+<g transform="translate(48 128)" fill="#A4C639"><path d="M7 17h34v27H7Z"/><rect x="1" y="20" width="5" height="20" rx="2"/><rect x="42" y="20" width="5" height="20" rx="2"/><rect x="12" y="43" width="6" height="10" rx="2"/><rect x="30" y="43" width="6" height="10" rx="2"/><path d="M8 17c2-13 30-13 32 0Z"/><path d="m14 5 4 7M34 5l-4 7" class="line" stroke="#A4C639" stroke-width="2"/><circle cx="18" cy="12" r="1.4" fill="#fff"/><circle cx="30" cy="12" r="1.4" fill="#fff"/></g>
+<!-- React -->
+<g transform="translate(145 132)" fill="none" stroke="#61DAFB" stroke-width="2.4"><ellipse cx="25" cy="25" rx="23" ry="9"/><ellipse cx="25" cy="25" rx="23" ry="9" transform="rotate(60 25 25)"/><ellipse cx="25" cy="25" rx="23" ry="9" transform="rotate(120 25 25)"/><circle cx="25" cy="25" r="4" fill="#61DAFB"/></g>
+<!-- Next.js -->
+<g transform="translate(252 145)"><text x="0" y="25" fill="var(--text)" font-family="Arial,sans-serif" font-size="21">NEXT</text><text x="49" y="25" fill="var(--text)" font-family="Arial,sans-serif" font-size="11">.js</text></g>
+<!-- REST API -->
+<g transform="translate(42 190)"><text x="0" y="29" fill="#247D8A" font-family="Arial,sans-serif" font-size="27">{</text><text x="16" y="17" fill="#247D8A" font-family="Arial,sans-serif" font-size="11" font-weight="800">REST</text><text x="20" y="31" fill="#247D8A" font-family="Arial,sans-serif" font-size="11" font-weight="800">API</text><text x="48" y="29" fill="#247D8A" font-family="Arial,sans-serif" font-size="27">}</text></g>
+<!-- Database -->
+<g transform="translate(151 190)" fill="none" stroke="#24557A" stroke-width="2.4"><ellipse cx="23" cy="6" rx="20" ry="6"/><path d="M3 6v26c0 8 40 8 40 0V6M3 19c0 8 40 8 40 0"/></g>
+<!-- Firebase -->
+<g transform="translate(268 184)"><path d="M25 54 4 41 13 2l10 19 8-13 13 33Z" fill="#FFCA28"/><path d="m13 2 10 19-9 13Z" fill="#FFA000"/><path d="m23 21 8-13 3 26Z" fill="#F57C00"/></g>
+<line x1="24" y1="218" x2="316" y2="218" stroke="var(--border)"/>
+<text x="24" y="249" fill="var(--muted)" class="f">architecture · product flows</text>
+</g>
+
+<!-- DELIVERY -->
+<g transform="translate(804 180)">
+<rect width="340" height="270" rx="18" fill="var(--card)" stroke="var(--border)"/>
+<text x="24" y="36" fill="var(--gold)" class="k">DELIVERY</text>
+<!-- Git -->
+<g transform="translate(48 61) rotate(45 24 24)"><rect x="7" y="7" width="34" height="34" rx="4" fill="#F05032"/><g transform="rotate(-45 24 24)" stroke="#fff" stroke-width="2.5" fill="#fff"><path d="M15 12v23M15 19h14v11" fill="none"/><circle cx="15" cy="12" r="3"/><circle cx="15" cy="35" r="3"/><circle cx="29" cy="30" r="3"/></g></g>
+<!-- GitHub -->
+<g transform="translate(145 61)"><circle cx="25" cy="25" r="24" fill="#181717"/><path d="M13 18 9 10l9 5a22 22 0 0 1 14 0l9-5-4 8c4 3 5 8 4 13-1 8-7 12-16 12S10 39 9 31c-1-5 0-10 4-13Z" fill="#fff"/><circle cx="19" cy="27" r="2" fill="#181717"/><circle cx="31" cy="27" r="2" fill="#181717"/></g>
+<!-- Docker -->
+<g transform="translate(246 62)" fill="#2496ED"><rect x="2" y="16" width="8" height="7"/><rect x="12" y="16" width="8" height="7"/><rect x="22" y="16" width="8" height="7"/><rect x="12" y="7" width="8" height="7"/><rect x="22" y="7" width="8" height="7"/><rect x="32" y="16" width="8" height="7"/><path d="M0 25h45c-2 17-33 22-42 7-2-3-3-7-3-7Zm43 4c5-8 12-6 12-6-1 7-6 10-12 6Z"/></g>
+<!-- CI/CD -->
+<g transform="translate(47 134)" fill="none" stroke="#0B5CAD" stroke-width="5"><path d="M1 25c8-18 20-18 31 0s23 18 32 0M1 25c8 18 20 18 31 0s23-18 32 0"/></g>
+<!-- CMake -->
+<g transform="translate(153 129)"><path d="M25 2 49 48H2Z" fill="#064F8C"/><path d="M25 2 25 43 9 43Z" fill="#249847"/><path d="M25 2 43 43 25 43Z" fill="#D62828"/><path d="M25 21 35 43H15Z" fill="#fff"/></g>
+<!-- Testing -->
+<g transform="translate(264 134)" fill="none" stroke="#3A8F6B" stroke-width="3"><rect x="3" y="3" width="45" height="45" rx="4"/><path d="m13 26 8 8 17-19"/></g>
+<!-- Review -->
+<g transform="translate(49 190)" fill="none" stroke="#40515C" stroke-width="2.6"><path d="M3 3h48v34H30l-9 10v-10H3Z"/><path d="m17 16-6 6 6 6M37 16l6 6-6 6M30 14l-6 16"/></g>
+<!-- Security -->
+<g transform="translate(158 187)"><path d="M25 2 46 10v16c0 14-9 23-21 28C13 49 4 40 4 26V10Z" fill="#3A8F6B"/><rect x="17" y="25" width="16" height="13" rx="2" fill="#fff"/><path d="M20 25v-4a5 5 0 0 1 10 0v4" fill="none" stroke="#fff" stroke-width="3"/></g>
+<!-- Quality -->
+<g transform="translate(264 187)" fill="none" stroke="#D5A000" stroke-width="3"><circle cx="25" cy="20" r="17"/><path d="m16 38-5 15 14-7 14 7-5-15"/><path d="m25 10 3 7 8 1-6 5 2 8-7-4-7 4 2-8-6-5 8-1Z" fill="#D5A000"/></g>
+<line x1="24" y1="218" x2="316" y2="218" stroke="var(--border)"/>
+<text x="24" y="249" fill="var(--muted)" class="f">verify · observe · improve</text>
+</g>
+<text x="56" y="486" fill="var(--gold)" class="s">STATUS: recognizable tools · consistent hierarchy · no icon frames</text>
+</svg>

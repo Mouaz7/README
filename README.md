@@ -90,8 +90,8 @@
 ## `[04]` 🧠 `mouaz@github:~$ ./stack --inspect`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img width="100%" src="./assets/stack-light.svg" alt="Mouaz Naji technology stack">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-logos-dark-v2.svg">
+  <img width="100%" src="./assets/stack-logos-light-v2.svg" alt="Mouaz Naji technology stack">
 </picture>
 
 <details>
