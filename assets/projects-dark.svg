@@ -1,1 +1,113 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640" role="img" aria-labelledby="title desc"><title id="title">Selected engineering projects</title><desc id="desc">Six featured projects demonstrating backend, AI, mobile, systems and filesystem engineering.</desc><defs><style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:SFMono-Regular,Consolas,Liberation Mono,monospace}.eyebrow{font-size:13px;font-weight:700;letter-spacing:2.6px}.head{font-size:35px;font-weight:800}.sub{font-size:15px}.num{font-family:SFMono-Regular,Consolas,monospace;font-size:22px;font-weight:800}.title{font-family:SFMono-Regular,Consolas,monospace;font-size:13px;font-weight:800}.stack{font-family:SFMono-Regular,Consolas,monospace;font-size:12px;font-weight:700}.desc{font-family:SFMono-Regular,Consolas,monospace;font-size:10.7px}.link{font-family:SFMono-Regular,Consolas,monospace;font-size:10px;font-weight:800;letter-spacing:.5px}</style><linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E6C87A"/><stop offset=".55" stop-color="#42D2AE"/><stop offset="1" stop-color="#63C9D6"/></linearGradient></defs><rect width="1180" height="640" rx="26" fill="#080D0C"/><rect x="3" y="3" width="1174" height="634" rx="23" fill="none" stroke="url(#top)" stroke-width="2"/><text x="40" y="47" class="eyebrow" fill="#E6C87A">FEATURED WORK / ENGINEERING EVIDENCE</text><text x="40" y="93" class="head" fill="#F3F7F5">Selected work across the stack.</text><text x="40" y="120" class="sub" fill="#91A49C">Projects chosen for architecture, systems thinking, implementation depth and verifiable behavior.</text><g transform="translate(38,145)"><rect width="330" height="205" rx="18" fill="#101B18" stroke="#25483D"/><rect width="5" height="205" rx="3" fill="#42D2AE"/><text x="24" y="39" class="num" fill="#E6C87A">01</text><text x="77" y="37" class="title" fill="#F3F7F5">AUTO-HEALING AI DEVOPS</text><line x1="24" y1="59" x2="306" y2="59" stroke="#25483D"/><text x="24" y="95" class="stack" fill="#63C9D6">Python · Agents · CI/CD</text><text x="24" y="132" class="desc" fill="#91A49C">Controlled repair workflows · HITL · security gates</text><rect x="24" y="158" width="112" height="28" rx="8" fill="none" stroke="#42D2AE" opacity=".72"/><text x="39" y="177" class="link" fill="#F3F7F5">VIEW REPO</text><circle cx="290" cy="172" r="14" fill="none" stroke="#42D2AE"/><path d="M284 172h11m-5-5 5 5-5 5" fill="none" stroke="#42D2AE" stroke-width="1.6"/></g><g transform="translate(406,145)"><rect width="330" height="205" rx="18" fill="#101B18" stroke="#25483D"/><rect width="5" height="205" rx="3" fill="#E6C87A"/><text x="24" y="39" class="num" fill="#E6C87A">02</text><text x="77" y="37" class="title" fill="#F3F7F5">CAMPUS360</text><line x1="24" y1="59" x2="306" y2="59" stroke="#25483D"/><text x="24" y="95" class="stack" fill="#63C9D6">Kotlin · Android · Firebase</text><text x="24" y="132" class="desc" fill="#91A49C">Navigation · MVVM · authentication · cloud state</text><rect x="24" y="158" width="112" height="28" rx="8" fill="none" stroke="#E6C87A" opacity=".72"/><text x="39" y="177" class="link" fill="#F3F7F5">VIEW REPO</text><circle cx="290" cy="172" r="14" fill="none" stroke="#E6C87A"/><path d="M284 172h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.6"/></g><g transform="translate(774,145)"><rect width="330" height="205" rx="18" fill="#101B18" stroke="#25483D"/><rect width="5" height="205" rx="3" fill="#63C9D6"/><text x="24" y="39" class="num" fill="#E6C87A">03</text><text x="77" y="37" class="title" fill="#F3F7F5">PONGPAL</text><line x1="24" y1="59" x2="306" y2="59" stroke="#25483D"/><text x="24" y="95" class="stack" fill="#63C9D6">React · Slack · Firebase · IoT</text><text x="24" y="132" class="desc" fill="#91A49C">Realtime booking · commands · camera integration</text><rect x="24" y="158" width="112" height="28" rx="8" fill="none" stroke="#63C9D6" opacity=".72"/><text x="39" y="177" class="link" fill="#F3F7F5">VIEW REPO</text><circle cx="290" cy="172" r="14" fill="none" stroke="#63C9D6"/><path d="M284 172h11m-5-5 5 5-5 5" fill="none" stroke="#63C9D6" stroke-width="1.6"/></g><g transform="translate(38,390)"><rect width="330" height="205" rx="18" fill="#101B18" stroke="#25483D"/><rect width="5" height="205" rx="3" fill="#E6C87A"/><text x="24" y="39" class="num" fill="#E6C87A">04</text><text x="77" y="37" class="title" fill="#F3F7F5">CHESS GAME</text><line x1="24" y1="59" x2="306" y2="59" stroke="#25483D"/><text x="24" y="95" class="stack" fill="#63C9D6">C++20 · SFML 3.0</text><text x="24" y="132" class="desc" fill="#91A49C">Rule engine · timers · history · modern OOP</text><rect x="24" y="158" width="112" height="28" rx="8" fill="none" stroke="#E6C87A" opacity=".72"/><text x="39" y="177" class="link" fill="#F3F7F5">VIEW REPO</text><circle cx="290" cy="172" r="14" fill="none" stroke="#E6C87A"/><path d="M284 172h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.6"/></g><g transform="translate(406,390)"><rect width="330" height="205" rx="18" fill="#101B18" stroke="#25483D"/><rect width="5" height="205" rx="3" fill="#63C9D6"/><text x="24" y="39" class="num" fill="#E6C87A">05</text><text x="77" y="37" class="title" fill="#F3F7F5">CONCURRENCY SYSTEMS</text><line x1="24" y1="59" x2="306" y2="59" stroke="#25483D"/><text x="24" y="95" class="stack" fill="#63C9D6">C · POSIX · Linux</text><text x="24" y="132" class="desc" fill="#91A49C">Threads · mutexes · IPC · paging behavior</text><rect x="24" y="158" width="112" height="28" rx="8" fill="none" stroke="#63C9D6" opacity=".72"/><text x="39" y="177" class="link" fill="#F3F7F5">VIEW REPO</text><circle cx="290" cy="172" r="14" fill="none" stroke="#63C9D6"/><path d="M284 172h11m-5-5 5 5-5 5" fill="none" stroke="#63C9D6" stroke-width="1.6"/></g><g transform="translate(774,390)"><rect width="330" height="205" rx="18" fill="#101B18" stroke="#25483D"/><rect width="5" height="205" rx="3" fill="#42D2AE"/><text x="24" y="39" class="num" fill="#E6C87A">06</text><text x="77" y="37" class="title" fill="#F3F7F5">OS FILESYSTEM</text><line x1="24" y1="59" x2="306" y2="59" stroke="#25483D"/><text x="24" y="95" class="stack" fill="#63C9D6">C++ · FAT · Linux</text><text x="24" y="132" class="desc" fill="#91A49C">Virtual disk · directories · paths · permissions</text><rect x="24" y="158" width="112" height="28" rx="8" fill="none" stroke="#42D2AE" opacity=".72"/><text x="39" y="177" class="link" fill="#F3F7F5">VIEW REPO</text><circle cx="290" cy="172" r="14" fill="none" stroke="#42D2AE"/><path d="M284 172h11m-5-5 5 5-5 5" fill="none" stroke="#42D2AE" stroke-width="1.6"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="650" viewBox="0 0 1180 650" role="img" aria-labelledby="title desc">
+<title id="title">Selected engineering projects</title>
+<desc id="desc">Six featured software engineering projects in a unified gold visual theme.</desc>
+<defs>
+<style>
+text{font-family:Inter,Segoe UI,Arial,sans-serif}
+.eyebrow{font-size:13px;font-weight:800;letter-spacing:2.6px}
+.head{font-size:35px;font-weight:850}
+.sub{font-size:15px}
+.num{font-family:SFMono-Regular,Consolas,monospace;font-size:10px;font-weight:800;letter-spacing:1px}
+.icon{font-family:SFMono-Regular,Consolas,monospace;font-size:11px;font-weight:900}
+.title{font-family:SFMono-Regular,Consolas,monospace;font-size:13px;font-weight:900}
+.stack{font-family:SFMono-Regular,Consolas,monospace;font-size:11.5px;font-weight:800}
+.desc{font-family:SFMono-Regular,Consolas,monospace;font-size:10.5px}
+.link{font-family:SFMono-Regular,Consolas,monospace;font-size:9px;font-weight:900;letter-spacing:.45px}
+</style>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A97918"/><stop offset=".5" stop-color="#F3D98C"/><stop offset="1" stop-color="#E6C87A"/></linearGradient>
+<radialGradient id="glow" cx="80%" cy="10%" r="80%"><stop stop-color="#F3D98C" stop-opacity=".16"/><stop offset="1" stop-color="#0C0E0B" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#F3D98C" opacity=".14"/></pattern>
+</defs>
+<rect width="1180" height="650" rx="26" fill="#0C0E0B"/>
+<rect width="1180" height="650" rx="26" fill="url(#glow)"/>
+<rect width="1180" height="650" rx="26" fill="url(#dots)"/>
+<rect x="3" y="3" width="1174" height="644" rx="23" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<text x="40" y="48" class="eyebrow" fill="#E6C87A">✦ FEATURED WORK / ENGINEERING EVIDENCE</text>
+<text x="40" y="94" class="head" fill="#FFF7DB">Selected work across the stack.</text>
+<text x="40" y="122" class="sub" fill="#B8AA82">Architecture, systems thinking, implementation depth and verifiable behavior.</text>
+<g transform="translate(38,150)">
+  <rect width="330" height="205" rx="18" fill="#151710" stroke="#51441D"/>
+  <rect width="6" height="205" rx="3" fill="#E6C87A"/>
+  <circle cx="41" cy="42" r="22" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="41" y="47" text-anchor="middle" class="icon" fill="#E6C87A">AI</text>
+  <text x="78" y="35" class="num" fill="#E6C87A">01</text>
+  <text x="78" y="57" class="title" fill="#FFF7DB">AUTO-HEALING AI DEVOPS</text>
+  <line x1="24" y1="76" x2="306" y2="76" stroke="#51441D"/>
+  <text x="24" y="111" class="stack" fill="#E6C87A">Python · Agents · CI/CD</text>
+  <text x="24" y="142" class="desc" fill="#B8AA82">Repair workflows · HITL · security gates</text>
+  <rect x="24" y="162" width="116" height="27" rx="8" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="40" y="180" class="link" fill="#FFF7DB">VIEW PROJECT</text>
+  <circle cx="290" cy="175" r="14" fill="none" stroke="#E6C87A"/>
+  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.7"/>
+</g><g transform="translate(406,150)">
+  <rect width="330" height="205" rx="18" fill="#151710" stroke="#51441D"/>
+  <rect width="6" height="205" rx="3" fill="#E6C87A"/>
+  <circle cx="41" cy="42" r="22" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="41" y="47" text-anchor="middle" class="icon" fill="#E6C87A">360</text>
+  <text x="78" y="35" class="num" fill="#E6C87A">02</text>
+  <text x="78" y="57" class="title" fill="#FFF7DB">CAMPUS360</text>
+  <line x1="24" y1="76" x2="306" y2="76" stroke="#51441D"/>
+  <text x="24" y="111" class="stack" fill="#E6C87A">Kotlin · Android · Firebase</text>
+  <text x="24" y="142" class="desc" fill="#B8AA82">Navigation · MVVM · authentication · cloud state</text>
+  <rect x="24" y="162" width="116" height="27" rx="8" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="40" y="180" class="link" fill="#FFF7DB">VIEW PROJECT</text>
+  <circle cx="290" cy="175" r="14" fill="none" stroke="#E6C87A"/>
+  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.7"/>
+</g><g transform="translate(774,150)">
+  <rect width="330" height="205" rx="18" fill="#151710" stroke="#51441D"/>
+  <rect width="6" height="205" rx="3" fill="#E6C87A"/>
+  <circle cx="41" cy="42" r="22" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="41" y="47" text-anchor="middle" class="icon" fill="#E6C87A">PP</text>
+  <text x="78" y="35" class="num" fill="#E6C87A">03</text>
+  <text x="78" y="57" class="title" fill="#FFF7DB">PONGPAL</text>
+  <line x1="24" y1="76" x2="306" y2="76" stroke="#51441D"/>
+  <text x="24" y="111" class="stack" fill="#E6C87A">React · Slack · Firebase · IoT</text>
+  <text x="24" y="142" class="desc" fill="#B8AA82">Realtime booking · commands · device integration</text>
+  <rect x="24" y="162" width="116" height="27" rx="8" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="40" y="180" class="link" fill="#FFF7DB">VIEW PROJECT</text>
+  <circle cx="290" cy="175" r="14" fill="none" stroke="#E6C87A"/>
+  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.7"/>
+</g><g transform="translate(38,398)">
+  <rect width="330" height="205" rx="18" fill="#151710" stroke="#51441D"/>
+  <rect width="6" height="205" rx="3" fill="#E6C87A"/>
+  <circle cx="41" cy="42" r="22" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="41" y="47" text-anchor="middle" class="icon" fill="#E6C87A">C++</text>
+  <text x="78" y="35" class="num" fill="#E6C87A">04</text>
+  <text x="78" y="57" class="title" fill="#FFF7DB">CHESS GAME</text>
+  <line x1="24" y1="76" x2="306" y2="76" stroke="#51441D"/>
+  <text x="24" y="111" class="stack" fill="#E6C87A">C++20 · SFML 3.0</text>
+  <text x="24" y="142" class="desc" fill="#B8AA82">Rule engine · timers · history · modern OOP</text>
+  <rect x="24" y="162" width="116" height="27" rx="8" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="40" y="180" class="link" fill="#FFF7DB">VIEW PROJECT</text>
+  <circle cx="290" cy="175" r="14" fill="none" stroke="#E6C87A"/>
+  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.7"/>
+</g><g transform="translate(406,398)">
+  <rect width="330" height="205" rx="18" fill="#151710" stroke="#51441D"/>
+  <rect width="6" height="205" rx="3" fill="#E6C87A"/>
+  <circle cx="41" cy="42" r="22" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="41" y="47" text-anchor="middle" class="icon" fill="#E6C87A">PX</text>
+  <text x="78" y="35" class="num" fill="#E6C87A">05</text>
+  <text x="78" y="57" class="title" fill="#FFF7DB">CONCURRENCY SYSTEMS</text>
+  <line x1="24" y1="76" x2="306" y2="76" stroke="#51441D"/>
+  <text x="24" y="111" class="stack" fill="#E6C87A">C · POSIX · Linux</text>
+  <text x="24" y="142" class="desc" fill="#B8AA82">Threads · mutexes · IPC · paging behavior</text>
+  <rect x="24" y="162" width="116" height="27" rx="8" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="40" y="180" class="link" fill="#FFF7DB">VIEW PROJECT</text>
+  <circle cx="290" cy="175" r="14" fill="none" stroke="#E6C87A"/>
+  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.7"/>
+</g><g transform="translate(774,398)">
+  <rect width="330" height="205" rx="18" fill="#151710" stroke="#51441D"/>
+  <rect width="6" height="205" rx="3" fill="#E6C87A"/>
+  <circle cx="41" cy="42" r="22" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="41" y="47" text-anchor="middle" class="icon" fill="#E6C87A">FS</text>
+  <text x="78" y="35" class="num" fill="#E6C87A">06</text>
+  <text x="78" y="57" class="title" fill="#FFF7DB">OS FILESYSTEM</text>
+  <line x1="24" y1="76" x2="306" y2="76" stroke="#51441D"/>
+  <text x="24" y="111" class="stack" fill="#E6C87A">C++ · FAT · Linux</text>
+  <text x="24" y="142" class="desc" fill="#B8AA82">Virtual disk · directories · paths · permissions</text>
+  <rect x="24" y="162" width="116" height="27" rx="8" fill="#211C0D" stroke="#F3D98C"/>
+  <text x="40" y="180" class="link" fill="#FFF7DB">VIEW PROJECT</text>
+  <circle cx="290" cy="175" r="14" fill="none" stroke="#E6C87A"/>
+  <path d="M284 175h11m-5-5 5 5-5 5" fill="none" stroke="#E6C87A" stroke-width="1.7"/>
+</g>
+</svg>
