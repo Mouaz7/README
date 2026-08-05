@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-label="capabilities.matrix --evidence=projects">
+<defs>
+<linearGradient id="outer" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#35F2C1"/><stop offset="52%" stop-color="#61E7E2"/><stop offset="100%" stop-color="#E6C87A"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#12312C" stroke-width="1" opacity="0.65"/></pattern>
+<filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.tiny{font:500 11px 'Courier New',Consolas,monospace;fill:#8DB8AA}
+.label{font:700 14px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+.body{font:500 14px 'Courier New',Consolas,monospace;fill:#C8F3E7}
+.muted{font:500 13px 'Courier New',Consolas,monospace;fill:#8DB8AA}
+.heading{font:700 24px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+.display{font:700 58px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+.accent{font:700 20px 'Courier New',Consolas,monospace;fill:#E6C87A}
+.chip{font:700 12px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+</style></defs>
+<rect x="0" y="0" width="1200" height="640" rx="24" fill="#05080B"/>
+<rect x="18" y="18" width="1164" height="604" rx="20" fill="#05080B" stroke="url(#outer)" stroke-width="2"/>
+<rect x="18" y="18" width="1164" height="604" rx="20" fill="url(#grid)"/>
+<rect x="34" y="34" width="1132" height="42" rx="13" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<circle cx="58" cy="55" r="6" fill="#35F2C1"/>
+<circle cx="82" cy="55" r="6" fill="#61E7E2"/>
+<circle cx="106" cy="55" r="6" fill="#E6C87A"/>
+<text x="130" y="60" class="label">capabilities.matrix --evidence=projects</text>
+<text x="1116" y="60" class="tiny" text-anchor="end">ONLINE · 03/08</text>
+<text x="58" y="112" class="heading">Technical capability matrix</text>
+<text x="58" y="142" class="muted">Practical skills shown through coursework, systems projects and integrations.</text>
+<rect x="58" y="184" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="80" y="212" class="label">BACKEND ENGINEERING</text>
+<text x="80" y="238" class="muted">APIs · auth · persistence</text>
+<rect x="376" y="208" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="376" y="208" width="137.28" height="14" rx="7" fill="#35F2C1"/>
+<text x="532" y="243" class="tiny" text-anchor="end">88%</text>
+<rect x="58" y="280" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="80" y="308" class="label">SYSTEMS PROGRAMMING</text>
+<text x="80" y="334" class="muted">threads · IPC · memory</text>
+<rect x="376" y="304" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="376" y="304" width="127.92" height="14" rx="7" fill="#35F2C1"/>
+<text x="532" y="339" class="tiny" text-anchor="end">82%</text>
+<rect x="58" y="376" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="80" y="404" class="label">AI INTEGRATIONS</text>
+<text x="80" y="430" class="muted">agents · orchestration · evaluation</text>
+<rect x="376" y="400" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="376" y="400" width="124.8" height="14" rx="7" fill="#35F2C1"/>
+<text x="532" y="435" class="tiny" text-anchor="end">80%</text>
+<rect x="58" y="472" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="80" y="500" class="label">DATABASES</text>
+<text x="80" y="526" class="muted">SQL · Firebase · data modelling</text>
+<rect x="376" y="496" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="376" y="496" width="121.68" height="14" rx="7" fill="#35F2C1"/>
+<text x="532" y="531" class="tiny" text-anchor="end">78%</text>
+<rect x="642" y="184" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="664" y="212" class="label">NETWORKING</text>
+<text x="664" y="238" class="muted">TCP · UDP · throughput</text>
+<rect x="960" y="208" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="960" y="208" width="112.32" height="14" rx="7" fill="#35F2C1"/>
+<text x="1116" y="243" class="tiny" text-anchor="end">72%</text>
+<rect x="642" y="280" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="664" y="308" class="label">SECURE SOFTWARE</text>
+<text x="664" y="334" class="muted">validation · secrets · HITL</text>
+<rect x="960" y="304" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="960" y="304" width="109.2" height="14" rx="7" fill="#35F2C1"/>
+<text x="1116" y="339" class="tiny" text-anchor="end">70%</text>
+<rect x="642" y="376" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="664" y="404" class="label">MOBILE DEVELOPMENT</text>
+<text x="664" y="430" class="muted">Kotlin · Android · MVVM</text>
+<rect x="960" y="400" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="960" y="400" width="106.08" height="14" rx="7" fill="#35F2C1"/>
+<text x="1116" y="435" class="tiny" text-anchor="end">68%</text>
+<rect x="642" y="472" width="500" height="84" rx="16" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="664" y="500" class="label">FRONTEND</text>
+<text x="664" y="526" class="muted">React · TypeScript · responsive UI</text>
+<rect x="960" y="496" width="156" height="14" rx="7" fill="#0B1714" stroke="#183D35" stroke-width="1"/>
+<rect x="960" y="496" width="102.96" height="14" rx="7" fill="#35F2C1"/>
+<text x="1116" y="531" class="tiny" text-anchor="end">66%</text>
+<rect x="58" y="570" width="1084" height="28" rx="10" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="78" y="589" class="tiny">METHOD: learn → build → verify → document → improve</text>
+</svg>

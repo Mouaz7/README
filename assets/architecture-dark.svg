@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-label="architecture.map --scope=engineering">
+  <defs>
+    <linearGradient id="outer" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#35F2C1"/>
+      <stop offset="52%" stop-color="#61E7E2"/>
+      <stop offset="100%" stop-color="#E6C87A"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#12312C" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .tiny{font:500 11px 'Courier New',Consolas,monospace;fill:#89B5A7}
+      .label{font:700 14px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+      .body{font:500 13px 'Courier New',Consolas,monospace;fill:#BDECDC}
+      .muted{font:500 13px 'Courier New',Consolas,monospace;fill:#89B5A7}
+      .heading{font:700 26px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+      .accent{font:700 21px 'Courier New',Consolas,monospace;fill:#E6C87A}
+      .core{font:700 18px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+      .mini{font:700 10px 'Courier New',Consolas,monospace;fill:#08110F}
+    </style>
+  </defs>
+
+  <rect width="1200" height="640" rx="24" fill="#05080B"/>
+  <rect x="18" y="18" width="1164" height="604" rx="20" fill="#05080B" stroke="url(#outer)" stroke-width="2"/>
+  <rect x="18" y="18" width="1164" height="604" rx="20" fill="url(#grid)"/>
+
+  <rect x="34" y="34" width="1132" height="42" rx="13" fill="#08110F" stroke="#183D35"/>
+  <circle cx="58" cy="55" r="6" fill="#35F2C1"/>
+  <circle cx="82" cy="55" r="6" fill="#61E7E2"/>
+  <circle cx="106" cy="55" r="6" fill="#E6C87A"/>
+  <text x="130" y="60" class="label">architecture.map --scope=engineering</text>
+  <text x="1118" y="60" class="tiny" text-anchor="end">ONLINE · MODULE 02/08</text>
+
+  <text x="58" y="114" class="heading">Engineering architecture</text>
+  <text x="58" y="140" class="muted">Six connected domains organized around one delivery core.</text>
+
+  <!-- cards left -->
+  <g>
+    <rect x="58" y="180" width="250" height="82" rx="16" fill="#08110F" stroke="#35F2C1" stroke-width="1.4"/>
+    <circle cx="84" cy="205" r="6" fill="#35F2C1"/>
+    <text x="102" y="210" class="label">BACKEND</text>
+    <text x="84" y="237" class="body">APIs · Services · Auth</text>
+    <text x="84" y="256" class="muted">validation · reliability</text>
+  </g>
+
+  <g>
+    <rect x="58" y="282" width="250" height="82" rx="16" fill="#08110F" stroke="#61E7E2" stroke-width="1.4"/>
+    <circle cx="84" cy="307" r="6" fill="#61E7E2"/>
+    <text x="102" y="312" class="label">SYSTEMS</text>
+    <text x="84" y="339" class="body">Threads · IPC · OS</text>
+    <text x="84" y="358" class="muted">filesystems · memory</text>
+  </g>
+
+  <g>
+    <rect x="58" y="384" width="250" height="82" rx="16" fill="#08110F" stroke="#35F2C1" stroke-width="1.4"/>
+    <circle cx="84" cy="409" r="6" fill="#35F2C1"/>
+    <text x="102" y="414" class="label">DATA</text>
+    <text x="84" y="441" class="body">SQL · Firebase · Persistence</text>
+    <text x="84" y="460" class="muted">queries · schema thinking</text>
+  </g>
+
+  <!-- cards right -->
+  <g>
+    <rect x="892" y="180" width="250" height="82" rx="16" fill="#08110F" stroke="#E6C87A" stroke-width="1.4"/>
+    <circle cx="918" cy="205" r="6" fill="#E6C87A"/>
+    <text x="936" y="210" class="label">AI SYSTEMS</text>
+    <text x="918" y="237" class="body">LLMs · Agents · Automation</text>
+    <text x="918" y="256" class="muted">orchestration · HITL</text>
+  </g>
+
+  <g>
+    <rect x="892" y="282" width="250" height="82" rx="16" fill="#08110F" stroke="#61E7E2" stroke-width="1.4"/>
+    <circle cx="918" cy="307" r="6" fill="#61E7E2"/>
+    <text x="936" y="312" class="label">SECURITY</text>
+    <text x="918" y="339" class="body">Validation · Secrets · Review</text>
+    <text x="918" y="358" class="muted">quality gates · safe defaults</text>
+  </g>
+
+  <g>
+    <rect x="892" y="384" width="250" height="82" rx="16" fill="#08110F" stroke="#E6C87A" stroke-width="1.4"/>
+    <circle cx="918" cy="409" r="6" fill="#E6C87A"/>
+    <text x="936" y="414" class="label">DEVOPS</text>
+    <text x="918" y="441" class="body">Linux · Docker · CI/CD</text>
+    <text x="918" y="460" class="muted">automation · observability</text>
+  </g>
+
+  <!-- core -->
+  <g filter="url(#glow)">
+    <circle cx="600" cy="323" r="102" fill="#07100D" stroke="#183D35" stroke-width="1.5"/>
+    <circle cx="600" cy="323" r="83" fill="none" stroke="#61E7E2" stroke-width="2.2"/>
+    <circle cx="600" cy="323" r="68" fill="none" stroke="#35F2C1" stroke-width="2" stroke-dasharray="9 8"/>
+    <circle cx="600" cy="323" r="52" fill="#091311" stroke="#E6C87A" stroke-width="1.5"/>
+  </g>
+  <text x="600" y="302" class="tiny" text-anchor="middle">delivery core</text>
+  <text x="600" y="327" class="accent" text-anchor="middle">MOUAZ.CORE</text>
+  <text x="600" y="350" class="core" text-anchor="middle">BUILD · TEST · REFINE</text>
+  <text x="600" y="372" class="tiny" text-anchor="middle">architecture first</text>
+
+  <!-- connector lines -->
+  <path d="M308 221 C402 221 444 248 504 285" fill="none" stroke="#35F2C1" stroke-width="1.8" stroke-dasharray="7 8"/>
+  <path d="M308 323 C406 323 444 323 498 323" fill="none" stroke="#61E7E2" stroke-width="1.8" stroke-dasharray="7 8"/>
+  <path d="M308 425 C402 425 444 398 504 361" fill="none" stroke="#35F2C1" stroke-width="1.8" stroke-dasharray="7 8"/>
+
+  <path d="M696 285 C756 248 798 221 892 221" fill="none" stroke="#E6C87A" stroke-width="1.8" stroke-dasharray="7 8"/>
+  <path d="M702 323 C756 323 794 323 892 323" fill="none" stroke="#61E7E2" stroke-width="1.8" stroke-dasharray="7 8"/>
+  <path d="M696 361 C756 398 798 425 892 425" fill="none" stroke="#E6C87A" stroke-width="1.8" stroke-dasharray="7 8"/>
+
+  <rect x="58" y="518" width="1084" height="58" rx="14" fill="#08110F" stroke="#183D35"/>
+  <text x="84" y="543" class="label">DELIVERY LOOP</text>
+  <text x="84" y="565" class="body">requirements → design → implementation → verification → iteration</text>
+  <text x="1116" y="565" class="tiny" text-anchor="end">stable system view</text>
+</svg>
