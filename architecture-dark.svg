@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-label="architecture.map --scope=engineering">
+<defs>
+<linearGradient id="outer" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#35F2C1"/><stop offset="52%" stop-color="#61E7E2"/><stop offset="100%" stop-color="#E6C87A"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#12312C" stroke-width="1" opacity="0.65"/></pattern>
+<filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.tiny{font:500 11px 'Courier New',Consolas,monospace;fill:#8DB8AA}
+.label{font:700 14px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+.body{font:500 14px 'Courier New',Consolas,monospace;fill:#C8F3E7}
+.muted{font:500 13px 'Courier New',Consolas,monospace;fill:#8DB8AA}
+.heading{font:700 24px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+.display{font:700 58px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+.accent{font:700 20px 'Courier New',Consolas,monospace;fill:#E6C87A}
+.chip{font:700 12px 'Courier New',Consolas,monospace;fill:#EAFEF7}
+</style></defs>
+<rect x="0" y="0" width="1200" height="640" rx="24" fill="#05080B"/>
+<rect x="18" y="18" width="1164" height="604" rx="20" fill="#05080B" stroke="url(#outer)" stroke-width="2"/>
+<rect x="18" y="18" width="1164" height="604" rx="20" fill="url(#grid)"/>
+<rect x="34" y="34" width="1132" height="42" rx="13" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<circle cx="58" cy="55" r="6" fill="#35F2C1"/>
+<circle cx="82" cy="55" r="6" fill="#61E7E2"/>
+<circle cx="106" cy="55" r="6" fill="#E6C87A"/>
+<text x="130" y="60" class="label">architecture.map --scope=engineering</text>
+<text x="1116" y="60" class="tiny" text-anchor="end">ONLINE · 02/08</text>
+<text x="58" y="112" class="heading">Six connected engineering domains</text>
+<text x="58" y="142" class="muted">One core, six practical domains, one repeatable delivery loop.</text>
+<rect x="56" y="176" width="258" height="84" rx="16" fill="#08110F" stroke="#35F2C1" stroke-width="1.3"/>
+<circle cx="80" cy="202" r="6" fill="#35F2C1"/>
+<text x="98" y="207" class="label">BACKEND</text>
+<text x="80" y="236" class="muted">APIs · Auth · Services</text>
+<rect x="471" y="148" width="258" height="84" rx="16" fill="#08110F" stroke="#E6C87A" stroke-width="1.3"/>
+<circle cx="495" cy="174" r="6" fill="#E6C87A"/>
+<text x="513" y="179" class="label">AI SYSTEMS</text>
+<text x="495" y="208" class="muted">Agents · LLMs · HITL</text>
+<rect x="886" y="176" width="258" height="84" rx="16" fill="#08110F" stroke="#61E7E2" stroke-width="1.3"/>
+<circle cx="910" cy="202" r="6" fill="#61E7E2"/>
+<text x="928" y="207" class="label">SECURITY</text>
+<text x="910" y="236" class="muted">Validation · Secrets · Gates</text>
+<rect x="56" y="386" width="258" height="84" rx="16" fill="#08110F" stroke="#61E7E2" stroke-width="1.3"/>
+<circle cx="80" cy="412" r="6" fill="#61E7E2"/>
+<text x="98" y="417" class="label">SYSTEMS</text>
+<text x="80" y="446" class="muted">Threads · IPC · Filesystems</text>
+<rect x="471" y="414" width="258" height="84" rx="16" fill="#08110F" stroke="#35F2C1" stroke-width="1.3"/>
+<circle cx="495" cy="440" r="6" fill="#35F2C1"/>
+<text x="513" y="445" class="label">DATA</text>
+<text x="495" y="474" class="muted">SQL · Firebase · Persistence</text>
+<rect x="886" y="386" width="258" height="84" rx="16" fill="#08110F" stroke="#E6C87A" stroke-width="1.3"/>
+<circle cx="910" cy="412" r="6" fill="#E6C87A"/>
+<text x="928" y="417" class="label">DEVOPS</text>
+<text x="910" y="446" class="muted">Linux · Docker · CI/CD</text>
+<circle cx="600" cy="322" r="82" fill="#08110F" stroke="#61E7E2" stroke-width="2"/>
+<circle cx="600" cy="322" r="66" fill="none" stroke="#35F2C1" stroke-width="2" stroke-dasharray="8 8"/>
+<circle cx="600" cy="322" r="50" fill="none" stroke="#183D35" stroke-width="2"/>
+<text x="600" y="318" class="accent" text-anchor="middle">MOUAZ.CORE</text>
+<text x="600" y="344" class="label" text-anchor="middle">BUILD · TEST · REFINE</text>
+<text x="600" y="366" class="tiny" text-anchor="middle">architecture first</text>
+<path d="M314 218 C410 218 455 264 518 292" fill="none" stroke="#35F2C1" stroke-width="1.8" stroke-dasharray="7 8"/>
+<path d="M682 292 C748 264 790 218 886 218" fill="none" stroke="#61E7E2" stroke-width="1.8" stroke-dasharray="7 8"/>
+<path d="M314 428 C410 428 455 382 518 352" fill="none" stroke="#61E7E2" stroke-width="1.8" stroke-dasharray="7 8"/>
+<path d="M682 352 C748 382 790 428 886 428" fill="none" stroke="#E6C87A" stroke-width="1.8" stroke-dasharray="7 8"/>
+<line x1="600" y1="232" x2="600" y2="240" stroke="#E6C87A" stroke-width="2"/>
+<line x1="600" y1="404" x2="600" y2="414" stroke="#35F2C1" stroke-width="2"/>
+<rect x="56" y="534" width="1088" height="42" rx="12" fill="#08110F" stroke="#183D35" stroke-width="1"/>
+<text x="78" y="560" class="body">FLOW: requirements → design → implementation → verification → iteration</text>
+</svg>
