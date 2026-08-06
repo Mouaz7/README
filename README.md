@@ -94,109 +94,75 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/E6C87A" height="20" alt="Python"> <b>Python</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/E6C87A" height="20" alt="C++"> <b>C++</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/c/E6C87A" height="20" alt="C"> <b>C</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openjdk/E6C87A" height="20" alt="Java"> <b>Java</b>
-</p>
-<p>
-  <img src="https://cdn.simpleicons.org/typescript/E6C87A" height="20" alt="TypeScript"> <b>TypeScript</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/E6C87A" height="20" alt="JavaScript"> <b>JavaScript</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/E6C87A" height="20" alt="Kotlin"> <b>Kotlin</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/E6C87A" height="20" alt="Bash"> <b>Bash</b>
+  <img src="https://img.shields.io/badge/-PYTHON-E6C87A?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/-C%2B%2B-E6C87A?style=for-the-badge" alt="C++">
+  <img src="https://img.shields.io/badge/-C-E6C87A?style=for-the-badge" alt="C">
+  <img src="https://img.shields.io/badge/-JAVA-E6C87A?style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-E6C87A?style=for-the-badge" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-E6C87A?style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-KOTLIN-E6C87A?style=for-the-badge" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-BASH-E6C87A?style=for-the-badge" alt="Bash">
 </p>
 
 ### 🧱 Backend & APIs
 
 <p>
-  <img src="https://cdn.simpleicons.org/swagger/E6C87A" height="20" alt="REST APIs"> <b>REST APIs</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/auth0/E6C87A" height="20" alt="Authentication"> <b>Authentication</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/checkmarx/E6C87A" height="20" alt="Validation"> <b>Validation</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/E6C87A" height="20" alt="Data modelling"> <b>Data modelling</b>
+  <img src="https://img.shields.io/badge/-REST%20APIS-E6C87A?style=for-the-badge" alt="REST APIs">
+  <img src="https://img.shields.io/badge/-AUTHENTICATION-E6C87A?style=for-the-badge" alt="Authentication">
+  <img src="https://img.shields.io/badge/-VALIDATION-E6C87A?style=for-the-badge" alt="Validation">
+  <img src="https://img.shields.io/badge/-DATA%20MODELLING-E6C87A?style=for-the-badge" alt="Data modelling">
 </p>
 
 ### 🗄️ Databases & Cloud Data
 
 <p>
-  <img src="https://cdn.simpleicons.org/postgresql/E6C87A" height="20" alt="PostgreSQL"> <b>PostgreSQL</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/E6C87A" height="20" alt="Firebase"> <b>Firebase</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Realtime data</b>
+  <img src="https://img.shields.io/badge/-POSTGRESQL-E6C87A?style=for-the-badge" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-FIREBASE-E6C87A?style=for-the-badge" alt="Firebase">
+  <img src="https://img.shields.io/badge/-REALTIME%20DATA-E6C87A?style=for-the-badge" alt="Realtime data">
 </p>
 
 ### ⚙️ Systems & Architecture
 
 <p>
-  <img src="https://cdn.simpleicons.org/linux/E6C87A" height="20" alt="Linux"> <b>Linux</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/E6C87A" height="20" alt="POSIX"> <b>POSIX</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Processes</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Threads</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>IPC</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Networking</b>
+  <img src="https://img.shields.io/badge/-LINUX-E6C87A?style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/-POSIX-E6C87A?style=for-the-badge" alt="POSIX">
+  <img src="https://img.shields.io/badge/-PROCESSES-E6C87A?style=for-the-badge" alt="Processes">
+  <img src="https://img.shields.io/badge/-THREADS-E6C87A?style=for-the-badge" alt="Threads">
+  <img src="https://img.shields.io/badge/-IPC-E6C87A?style=for-the-badge" alt="IPC">
+  <img src="https://img.shields.io/badge/-NETWORKING-E6C87A?style=for-the-badge" alt="Networking">
 </p>
 
 ### 📱 Mobile & Frontend
 
 <p>
-  <img src="https://cdn.simpleicons.org/android/E6C87A" height="20" alt="Android"> <b>Android</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/E6C87A" height="20" alt="React"> <b>React</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/E6C87A" height="20" alt="Next.js"> <b>Next.js</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/slack/E6C87A" height="20" alt="Realtime workflows"> <b>Realtime workflows</b>
+  <img src="https://img.shields.io/badge/-ANDROID-E6C87A?style=for-the-badge" alt="Android">
+  <img src="https://img.shields.io/badge/-REACT-E6C87A?style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/-NEXT.JS-E6C87A?style=for-the-badge" alt="Next.js">
+  <img src="https://img.shields.io/badge/-REALTIME%20WORKFLOWS-E6C87A?style=for-the-badge" alt="Realtime workflows">
 </p>
 
 ### 🤖 AI Engineering
 
 <p>
-  ✦ <b>LLM workflows</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>AI agents</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Orchestration</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Evaluation</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Human approval</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Safe automation</b>
+  <img src="https://img.shields.io/badge/-LLM%20WORKFLOWS-E6C87A?style=for-the-badge" alt="LLM workflows">
+  <img src="https://img.shields.io/badge/-AI%20AGENTS-E6C87A?style=for-the-badge" alt="AI agents">
+  <img src="https://img.shields.io/badge/-ORCHESTRATION-E6C87A?style=for-the-badge" alt="Orchestration">
+  <img src="https://img.shields.io/badge/-EVALUATION-E6C87A?style=for-the-badge" alt="Evaluation">
+  <img src="https://img.shields.io/badge/-HUMAN%20APPROVAL-E6C87A?style=for-the-badge" alt="Human approval">
+  <img src="https://img.shields.io/badge/-SAFE%20AUTOMATION-E6C87A?style=for-the-badge" alt="Safe automation">
 </p>
 
 ### 🛡️ Delivery & Quality
 
 <p>
-  <img src="https://cdn.simpleicons.org/git/E6C87A" height="20" alt="Git"> <b>Git</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/E6C87A" height="20" alt="GitHub"> <b>GitHub</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/E6C87A" height="20" alt="Docker"> <b>Docker</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/E6C87A" height="20" alt="CI/CD"> <b>CI/CD</b>
-</p>
-<p>
-  <img src="https://cdn.simpleicons.org/cmake/E6C87A" height="20" alt="CMake"> <b>CMake</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  ✦ <b>Testing</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/owasp/E6C87A" height="20" alt="Security"> <b>Security</b>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prometheus/E6C87A" height="20" alt="Observability"> <b>Observability</b>
+  <img src="https://img.shields.io/badge/-GIT-E6C87A?style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/-GITHUB-E6C87A?style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/-DOCKER-E6C87A?style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/-CI%2FCD-E6C87A?style=for-the-badge" alt="CI/CD">
+  <img src="https://img.shields.io/badge/-CMAKE-E6C87A?style=for-the-badge" alt="CMake">
+  <img src="https://img.shields.io/badge/-TESTING-E6C87A?style=for-the-badge" alt="Testing">
+  <img src="https://img.shields.io/badge/-SECURITY-E6C87A?style=for-the-badge" alt="Security">
+  <img src="https://img.shields.io/badge/-OBSERVABILITY-E6C87A?style=for-the-badge" alt="Observability">
 </p>
 
 ---
