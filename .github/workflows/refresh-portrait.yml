@@ -1,0 +1,62 @@
+name: Refresh profile portrait
+
+on:
+  push:
+    paths:
+      - ".github/workflows/refresh-portrait.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Embed clear portrait in profile SVGs
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64
+          import re
+
+          portrait = Path("assets/portrait-clear.webp")
+          encoded = base64.b64encode(portrait.read_bytes()).decode("ascii")
+
+          pattern = re.compile(
+              r'<image href="data:image/(?:webp|png|jpeg);base64,[^"]+" '
+              r'x="[^"]+" y="[^"]+" width="[^"]+" height="[^"]+" '
+              r'preserveAspectRatio="xMidYMin meet"/>'
+          )
+
+          targets = {
+              "assets/profile-light.svg": (782, 128, 364, 487),
+              "assets/profile-dark.svg": (785, 126, 358, 479),
+          }
+
+          for filename, (x, y, width, height) in targets.items():
+              path = Path(filename)
+              svg = path.read_text(encoding="utf-8")
+              replacement = (
+                  f'<image href="data:image/webp;base64,{encoded}" '
+                  f'x="{x}" y="{y}" width="{width}" height="{height}" '
+                  'preserveAspectRatio="xMidYMin meet"/>'
+              )
+              updated, count = pattern.subn(replacement, svg, count=1)
+              if count != 1:
+                  raise SystemExit(f"Could not replace portrait in {filename}")
+              path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit clearer portrait
+        shell: bash
+        run: |
+          git config user.name "Mouaz Naji"
+          git config user.email "150366708+Mouaz7@users.noreply.github.com"
+          git add assets/profile-light.svg assets/profile-dark.svg
+          git commit -m "Use clearer portrait in profile hero" || exit 0
+          git push
