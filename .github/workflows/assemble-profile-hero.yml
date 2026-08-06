@@ -1,0 +1,33 @@
+name: Assemble profile hero
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/assemble-profile-hero.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Assemble and verify SVG
+        shell: bash
+        run: |
+          cat .profile-parts/part-* | base64 --decode > assets/profile-light.svg
+          echo "30173fc8064b4a40fabbfae4b6eae6a1f0c688f12cb48be8818a844bf44e9733  assets/profile-light.svg" | sha256sum --check
+          rm -rf .profile-parts
+
+      - name: Commit profile hero
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Install refined gold profile hero"
+          git push
