@@ -89,7 +89,7 @@
 
 ## `[04]` 🧠 `mouaz@github:~$ ./stack --inspect`
 
-<img width="100%" src="./assets/stack-layout-v4.svg" alt="Mouaz Naji technology stack with balanced technology logos">
+<img width="100%" src="./assets/stack-final-v5.webp" alt="Mouaz Naji technology stack with technology logos">
 
 <details>
 <summary><b>🔎 Inspect the full engineering toolbox</b></summary>
