@@ -89,10 +89,7 @@
 
 ## `[04]` 🧠 `mouaz@github:~$ ./stack --inspect`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-logos-dark-v3.svg">
-  <img width="100%" src="./assets/stack-logos-light-v3.svg" alt="Mouaz Naji technology stack with balanced technology logos">
-</picture>
+<img width="100%" src="./assets/stack-layout-v4.svg" alt="Mouaz Naji technology stack with balanced technology logos">
 
 <details>
 <summary><b>🔎 Inspect the full engineering toolbox</b></summary>
