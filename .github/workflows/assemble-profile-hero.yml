@@ -1,4 +1,4 @@
-name: Assemble profile hero
+name: Install final profile hero
 
 on:
   push:
@@ -10,24 +10,36 @@ permissions:
   contents: write
 
 jobs:
-  assemble:
+  install:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Assemble and verify SVG
+      - name: Assemble and verify final hero
         shell: bash
         run: |
-          cat .profile-parts/part-* | base64 --decode > assets/profile-light.svg
-          echo "30173fc8064b4a40fabbfae4b6eae6a1f0c688f12cb48be8818a844bf44e9733  assets/profile-light.svg" | sha256sum --check
-          rm -rf .profile-parts
+          cat .hero-upload/part-* | base64 --decode > assets/profile-gold-v2.webp
+          echo "76d317db2b00d010e55c703f09456309410a71b8e592da9318d299f8ba69a7e8  assets/profile-gold-v2.webp" | sha256sum --check
 
-      - name: Commit profile hero
+          HERO_BASE64="$(base64 -w0 assets/profile-gold-v2.webp)"
+          cat > assets/profile-light.svg <<SVG
+          <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+            <title id="title">Mouaz Naji — Software Engineer</title>
+            <desc id="desc">A refined gold-themed software engineering profile header with Mouaz Naji's portrait.</desc>
+            <image href="data:image/webp;base64,${HERO_BASE64}" width="1200" height="900" preserveAspectRatio="xMidYMid meet"/>
+          </svg>
+          SVG
+
+          cp assets/profile-light.svg assets/profile-dark.svg
+          rm -rf .hero-upload .profile-parts .profile-fix
+          rm -f .github/workflows/assemble-profile-hero.yml
+
+      - name: Commit final hero
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Install refined gold profile hero"
+          git commit -m "Install final gold profile hero"
           git push
