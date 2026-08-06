@@ -17,17 +17,12 @@
 <br>
 
 <p align="center">
-  <a href="#about"><b>[01] ✦ About</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#engineering"><b>[02] ⚙ Engineering</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#projects"><b>[03] 🚀 Projects</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#skills"><b>[04] 🧠 Skills</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#activity"><b>[05] 📈 Evidence</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#contact"><b>[06] 🤝 Connect</b></a>
+  <a href="#about"><img src="https://img.shields.io/badge/01-ABOUT-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="About"></a>
+  <a href="#engineering"><img src="https://img.shields.io/badge/02-ENGINEERING-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Engineering"></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/03-PROJECTS-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Projects"></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/04-SKILLS-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Skills"></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/05-EVIDENCE-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Evidence"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/06-CONNECT-E6C87A?style=for-the-badge&amp;labelColor=0D1117" alt="Connect"></a>
 </p>
 
 ---
@@ -59,7 +54,12 @@
   <img width="100%" src="./assets/engineering-light.svg" alt="Mouaz Naji engineering operating model">
 </picture>
 
-<p align="center"><code>ARCHITECTURE</code> · <code>RELIABILITY</code> · <code>SECURITY</code> · <code>QUALITY</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-ARCHITECTURE-E6C87A?style=for-the-badge" alt="Architecture">
+  <img src="https://img.shields.io/badge/-RELIABILITY-E6C87A?style=for-the-badge" alt="Reliability">
+  <img src="https://img.shields.io/badge/-SECURITY-E6C87A?style=for-the-badge" alt="Security">
+  <img src="https://img.shields.io/badge/-QUALITY-E6C87A?style=for-the-badge" alt="Quality">
+</p>
 
 ---
 
